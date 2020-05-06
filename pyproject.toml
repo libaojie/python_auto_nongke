@@ -2,7 +2,7 @@
 name = "read_html_venv"
 version = "0.1.0"
 description = ""
-authors = ["libaojie <libaojie@hirisun.com>"]
+authors = ["libaojie <libaojie@qq.com>"]
 [tool.poetry.dependencies]
 python = "^3.6"
 cx-freeze = "5.1.1"
