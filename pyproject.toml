@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "read_html_venv"
+name = "python_auto_nongke_venv"
 version = "0.1.0"
 description = ""
 authors = ["libaojie <libaojie@qq.com>"]
