@@ -1,0 +1,21 @@
+[tool.poetry]
+name = "read_html_venv"
+version = "0.1.0"
+description = ""
+authors = ["libaojie <libaojie@hirisun.com>"]
+[tool.poetry.dependencies]
+python = "^3.6"
+cx-freeze = "5.1.1"
+easygui = "0.98.1"
+pywin32 = "227"
+xlrd = "1.1.0"
+xlutils = "2.0.0"
+
+[tool.poetry.dev-dependencies]
+[[tool.poetry.source]]
+name = "douban"
+url = "https://pypi.doubanio.com/simple/"
+default = true
+[build-system]
+requires = ["poetry>=0.12"]
+build-backend = "poetry.masonry.api"

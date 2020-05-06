@@ -1,0 +1,147 @@
+[ERROR 2020-04-30 14:54:58]打开文件出错
+[ERROR 2020-04-30 14:54:58]Traceback (most recent call last):
+  File "D:\04_code\github\python\read_html_venv\project\plugs\decorator.py", line 27, in wrapper
+    _ret = func(*args, **kwargs)
+  File "D:/04_code/github/python/read_html_venv/project/main.py", line 96, in _start_btn_back
+    content = handleFile.run()
+  File "D:\04_code\github\python\read_html_venv\project\toprice\handle_file.py", line 19, in run
+    par_id = self._get_par_id()
+  File "D:\04_code\github\python\read_html_venv\project\toprice\handle_file.py", line 54, in _get_par_id
+    ret = pattern.findall(self.content)
+TypeError: expected string or bytes-like object
+
+[ERROR 2020-04-30 15:08:51]打开文件出错
+[ERROR 2020-04-30 15:29:23]打开文件出错;【expected str, bytes or os.PathLike object, not NoneType】
+[ERROR 2020-04-30 15:29:23]Traceback (most recent call last):
+  File "D:\04_code\github\python\read_html_venv\project\plugs\decorator.py", line 27, in wrapper
+    _ret = func(*args, **kwargs)
+  File "D:/04_code/github/python/read_html_venv/project/main.py", line 96, in _start_btn_back
+    content = handleFile.run()
+  File "D:\04_code\github\python\read_html_venv\project\toprice\handle_file.py", line 19, in run
+    par_id = self._get_par_id()
+  File "D:\04_code\github\python\read_html_venv\project\toprice\handle_file.py", line 54, in _get_par_id
+    ret = pattern.findall(self.content)
+TypeError: expected string or bytes-like object
+
+[ERROR 2020-04-30 15:29:48]打开文件出错;【expected str, bytes or os.PathLike object, not NoneType】
+[ERROR 2020-04-30 15:29:48]Traceback (most recent call last):
+  File "D:\04_code\github\python\read_html_venv\project\plugs\decorator.py", line 27, in wrapper
+    _ret = func(*args, **kwargs)
+  File "D:/04_code/github/python/read_html_venv/project/main.py", line 96, in _start_btn_back
+    content = handleFile.run()
+  File "D:\04_code\github\python\read_html_venv\project\toprice\handle_file.py", line 19, in run
+    par_id = self._get_par_id()
+  File "D:\04_code\github\python\read_html_venv\project\toprice\handle_file.py", line 54, in _get_par_id
+    ret = pattern.findall(self.content)
+TypeError: expected string or bytes-like object
+
+[ERROR 2020-04-30 15:31:02]打开文件出错;【expected str, bytes or os.PathLike object, not NoneType】
+[ERROR 2020-04-30 15:31:02]Traceback (most recent call last):
+  File "D:\04_code\github\python\read_html_venv\project\plugs\decorator.py", line 27, in wrapper
+    _ret = func(*args, **kwargs)
+  File "D:/04_code/github/python/read_html_venv/project/main.py", line 96, in _start_btn_back
+    content = handleFile.run()
+  File "D:\04_code\github\python\read_html_venv\project\toprice\handle_file.py", line 19, in run
+    par_id = self._get_par_id()
+  File "D:\04_code\github\python\read_html_venv\project\toprice\handle_file.py", line 54, in _get_par_id
+    ret = pattern.findall(self.content)
+TypeError: expected string or bytes-like object
+
+[ERROR 2020-04-30 15:33:14]打开文件出错;【expected str, bytes or os.PathLike object, not NoneType】
+[ERROR 2020-04-30 15:33:14]Traceback (most recent call last):
+  File "D:\04_code\github\python\read_html_venv\project\plugs\decorator.py", line 27, in wrapper
+    _ret = func(*args, **kwargs)
+  File "D:/04_code/github/python/read_html_venv/project/main.py", line 96, in _start_btn_back
+    content = handleFile.run()
+  File "D:\04_code\github\python\read_html_venv\project\toprice\handle_file.py", line 19, in run
+    par_id = self._get_par_id()
+  File "D:\04_code\github\python\read_html_venv\project\toprice\handle_file.py", line 54, in _get_par_id
+    ret = pattern.findall(self.content)
+TypeError: expected string or bytes-like object
+
+[ERROR 2020-04-30 15:42:23]打开文件出错;【expected str, bytes or os.PathLike object, not NoneType】
+[ERROR 2020-04-30 15:42:23]Traceback (most recent call last):
+  File "D:\04_code\github\python\read_html_venv\project\plugs\decorator.py", line 27, in wrapper
+    _ret = func(*args, **kwargs)
+  File "D:/04_code/github/python/read_html_venv/project/main.py", line 96, in _start_btn_back
+    content = handleFile.run()
+  File "D:\04_code\github\python\read_html_venv\project\toprice\handle_file.py", line 19, in run
+    par_id = self._get_par_id()
+  File "D:\04_code\github\python\read_html_venv\project\toprice\handle_file.py", line 54, in _get_par_id
+    ret = pattern.findall(self.content)
+TypeError: expected string or bytes-like object
+
+[ERROR 2020-04-30 15:45:32]打开文件出错;【[Errno 22] Invalid argument: 'file:///C:/Users/snow/AppData/Local/Temp/Example.htm'】
+[ERROR 2020-04-30 15:45:32]Traceback (most recent call last):
+  File "D:\04_code\github\python\read_html_venv\project\plugs\decorator.py", line 27, in wrapper
+    _ret = func(*args, **kwargs)
+  File "D:/04_code/github/python/read_html_venv/project/main.py", line 96, in _start_btn_back
+    content = handleFile.run()
+  File "D:\04_code\github\python\read_html_venv\project\toprice\handle_file.py", line 19, in run
+    par_id = self._get_par_id()
+  File "D:\04_code\github\python\read_html_venv\project\toprice\handle_file.py", line 54, in _get_par_id
+    ret = pattern.findall(self.content)
+TypeError: expected string or bytes-like object
+
+[ERROR 2020-04-30 15:47:26]打开文件出错;【[Errno 22] Invalid argument: 'D:\\04_code\\github\\python\\read_html_venv\\project\\file:\\C:\\Users\\snow\\AppData\\Local\\Temp\\Example.htm'】
+[ERROR 2020-04-30 15:47:26]Traceback (most recent call last):
+  File "D:\04_code\github\python\read_html_venv\project\plugs\decorator.py", line 27, in wrapper
+    _ret = func(*args, **kwargs)
+  File "D:/04_code/github/python/read_html_venv/project/main.py", line 96, in _start_btn_back
+    content = handleFile.run()
+  File "D:\04_code\github\python\read_html_venv\project\toprice\handle_file.py", line 20, in run
+    par_id = self._get_par_id()
+  File "D:\04_code\github\python\read_html_venv\project\toprice\handle_file.py", line 55, in _get_par_id
+    ret = pattern.findall(self.content)
+TypeError: expected string or bytes-like object
+
+[ERROR 2020-04-30 15:48:49]打开文件出错;【[Errno 22] Invalid argument: 'D:\\C:\\Users\\snow\\AppData\\Local\\Temp\\Example.htm'】
+[ERROR 2020-04-30 15:48:49]Traceback (most recent call last):
+  File "D:\04_code\github\python\read_html_venv\project\plugs\decorator.py", line 27, in wrapper
+    _ret = func(*args, **kwargs)
+  File "D:/04_code/github/python/read_html_venv/project/main.py", line 96, in _start_btn_back
+    content = handleFile.run()
+  File "D:\04_code\github\python\read_html_venv\project\toprice\handle_file.py", line 21, in run
+    par_id = self._get_par_id()
+  File "D:\04_code\github\python\read_html_venv\project\toprice\handle_file.py", line 56, in _get_par_id
+    ret = pattern.findall(self.content)
+TypeError: expected string or bytes-like object
+
+[ERROR 2020-04-30 15:55:19]Traceback (most recent call last):
+  File "D:\04_code\github\python\read_html_venv\project\plugs\decorator.py", line 27, in wrapper
+    _ret = func(*args, **kwargs)
+  File "D:/04_code/github/python/read_html_venv/project/main.py", line 100, in _start_btn_back
+    win32gui.SetForegroundWindow(self.windowUI)
+TypeError: The object is not a PyHANDLE object
+
+[ERROR 2020-04-30 16:01:13]Traceback (most recent call last):
+  File "D:\04_code\github\python\read_html_venv\project\plugs\decorator.py", line 27, in wrapper
+    _ret = func(*args, **kwargs)
+  File "D:/04_code/github/python/read_html_venv/project/main.py", line 89, in _start_btn_back
+    assessmentUI.open_report()
+  File "D:\04_code\github\python\read_html_venv\project\toprice\assessment_UI.py", line 57, in open_report
+    win32gui.SetForegroundWindow(self.hwnd)
+pywintypes.error: (1400, 'SetForegroundWindow', '无效的窗口句柄。')
+
+[ERROR 2020-04-30 18:12:48]Traceback (most recent call last):
+  File "D:\04_code\github\python\read_html_venv\project\plugs\decorator.py", line 27, in wrapper
+    _ret = func(*args, **kwargs)
+  File "D:/04_code/github/python/read_html_venv/project/main.py", line 137, in _start_btn_back
+    self._handle()
+  File "D:/04_code/github/python/read_html_venv/project/main.py", line 149, in _handle
+    url = assessmentUI.get_url()
+  File "D:\04_code\github\python\read_html_venv\project\toprice\assessment_UI.py", line 102, in get_url
+    name = win32gui.GetClassName(cur_client)
+pywintypes.error: (1400, 'GetClassName', '无效的窗口句柄。')
+
+[ERROR 2020-04-30 18:13:37]Traceback (most recent call last):
+  File "D:\04_code\github\python\read_html_venv\project\plugs\decorator.py", line 27, in wrapper
+    _ret = func(*args, **kwargs)
+  File "D:/04_code/github/python/read_html_venv/project/main.py", line 137, in _start_btn_back
+    self._handle()
+  File "D:/04_code/github/python/read_html_venv/project/main.py", line 150, in _handle
+    url = assessmentUI.get_url()
+  File "D:\04_code\github\python\read_html_venv\project\toprice\assessment_UI.py", line 102, in get_url
+    name = win32gui.GetClassName(cur_client)
+pywintypes.error: (1400, 'GetClassName', '无效的窗口句柄。')
+

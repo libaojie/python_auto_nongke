@@ -1,0 +1,124 @@
+[[package]]
+category = "main"
+description = "create standalone executables from Python scripts"
+name = "cx-freeze"
+optional = false
+python-versions = "*"
+version = "5.1.1"
+
+[package.source]
+reference = "douban"
+url = "https://pypi.doubanio.com/simple"
+
+[[package]]
+category = "main"
+description = "EasyGUI is a module for very simple, very easy GUI programming in Python.  EasyGUI is different from other GUI generators in that EasyGUI is NOT event-driven.  Instead, all GUI interactions are invoked by simple function calls."
+name = "easygui"
+optional = false
+python-versions = "*"
+version = "0.98.1"
+
+[package.source]
+reference = "douban"
+url = "https://pypi.doubanio.com/simple"
+
+[[package]]
+category = "main"
+description = "Python for Window Extensions"
+name = "pywin32"
+optional = false
+python-versions = "*"
+version = "227"
+
+[package.source]
+reference = "douban"
+url = "https://pypi.doubanio.com/simple"
+
+[[package]]
+category = "main"
+description = "Library for developers to extract data from Microsoft Excel (tm) spreadsheet files"
+name = "xlrd"
+optional = false
+python-versions = "*"
+version = "1.1.0"
+
+[package.source]
+reference = "douban"
+url = "https://pypi.doubanio.com/simple"
+
+[[package]]
+category = "main"
+description = "Utilities for working with Excel files that require both xlrd and xlwt"
+name = "xlutils"
+optional = false
+python-versions = "*"
+version = "2.0.0"
+
+[package.dependencies]
+xlrd = ">=0.7.2"
+xlwt = ">=0.7.4"
+
+[package.extras]
+build = ["pkginfo", "setuptools-git", "sphinx", "twine", "wheel"]
+test = ["coveralls", "errorhandler", "manuel", "mock", "nose", "nose-cov", "nose-fixes", "testfixtures", "tox"]
+
+[package.source]
+reference = "douban"
+url = "https://pypi.doubanio.com/simple"
+
+[[package]]
+category = "main"
+description = "Library to create spreadsheet files compatible with MS Excel 97/2000/XP/2003 XLS files, on any platform, with Python 2.6, 2.7, 3.3+"
+name = "xlwt"
+optional = false
+python-versions = "*"
+version = "1.3.0"
+
+[package.source]
+reference = "douban"
+url = "https://pypi.doubanio.com/simple"
+
+[metadata]
+content-hash = "2bf4c18d128b500d48c6c51b5a1578b121c1367258d5bb56f8b4c4be937f98cd"
+python-versions = "^3.6"
+
+[metadata.files]
+cx-freeze = [
+    {file = "cx_Freeze-5.1.1-cp27-cp27m-win32.whl", hash = "sha256:076a75a23bea1566314e35d22491adc948352d7e9d5d9bfc4c4f5d11305cc6ff"},
+    {file = "cx_Freeze-5.1.1-cp27-cp27m-win_amd64.whl", hash = "sha256:9aee968da6f4c765237d912b4690ea801b96909f00442298646736ca1e4a3fa3"},
+    {file = "cx_Freeze-5.1.1-cp35-cp35m-win32.whl", hash = "sha256:8b1ed8f04bd761c0c8a8864485c50201e952e746925d7f1ab614dd69045a509b"},
+    {file = "cx_Freeze-5.1.1-cp35-cp35m-win_amd64.whl", hash = "sha256:19ef088481c55cd90c8d1c0a1c771dcd0f9583cba81443de0f1f3fa18a4d84f0"},
+    {file = "cx_Freeze-5.1.1-cp36-cp36m-win32.whl", hash = "sha256:2cda34f73052c18489e97d563e67d08762cc0ba8114e0ecac08124f9c252c69f"},
+    {file = "cx_Freeze-5.1.1-cp36-cp36m-win_amd64.whl", hash = "sha256:fb8c12f5814c1ce6383b86617ca6b2b83a169f9251f4e308e4f8d94b0c703f59"},
+    {file = "cx_Freeze-5.1.1.tar.gz", hash = "sha256:2eadddde670f5c5f6cf88638a0ac4e5d5fe181292a31063275fa56c7bf22426b"},
+]
+easygui = [
+    {file = "easygui-0.98.1-py2.py3-none-any.whl", hash = "sha256:690658af9fca3f2f2a55f24421045f9b33ca33c877ed5fb61d4b942d8ec335f3"},
+    {file = "easygui-0.98.1.tar.gz", hash = "sha256:dbc89afbb1aca83830ea4af568eb2491654e16b2706a14d040757fdf1fafbbfe"},
+]
+pywin32 = [
+    {file = "pywin32-227-cp27-cp27m-win32.whl", hash = "sha256:371fcc39416d736401f0274dd64c2302728c9e034808e37381b5e1b22be4a6b0"},
+    {file = "pywin32-227-cp27-cp27m-win_amd64.whl", hash = "sha256:4cdad3e84191194ea6d0dd1b1b9bdda574ff563177d2adf2b4efec2a244fa116"},
+    {file = "pywin32-227-cp35-cp35m-win32.whl", hash = "sha256:f4c5be1a293bae0076d93c88f37ee8da68136744588bc5e2be2f299a34ceb7aa"},
+    {file = "pywin32-227-cp35-cp35m-win_amd64.whl", hash = "sha256:a929a4af626e530383a579431b70e512e736e9588106715215bf685a3ea508d4"},
+    {file = "pywin32-227-cp36-cp36m-win32.whl", hash = "sha256:300a2db938e98c3e7e2093e4491439e62287d0d493fe07cce110db070b54c0be"},
+    {file = "pywin32-227-cp36-cp36m-win_amd64.whl", hash = "sha256:9b31e009564fb95db160f154e2aa195ed66bcc4c058ed72850d047141b36f3a2"},
+    {file = "pywin32-227-cp37-cp37m-win32.whl", hash = "sha256:47a3c7551376a865dd8d095a98deba954a98f326c6fe3c72d8726ca6e6b15507"},
+    {file = "pywin32-227-cp37-cp37m-win_amd64.whl", hash = "sha256:31f88a89139cb2adc40f8f0e65ee56a8c585f629974f9e07622ba80199057511"},
+    {file = "pywin32-227-cp38-cp38-win32.whl", hash = "sha256:7f18199fbf29ca99dff10e1f09451582ae9e372a892ff03a28528a24d55875bc"},
+    {file = "pywin32-227-cp38-cp38-win_amd64.whl", hash = "sha256:7c1ae32c489dc012930787f06244426f8356e129184a02c25aef163917ce158e"},
+    {file = "pywin32-227-cp39-cp39-win32.whl", hash = "sha256:c054c52ba46e7eb6b7d7dfae4dbd987a1bb48ee86debe3f245a2884ece46e295"},
+    {file = "pywin32-227-cp39-cp39-win_amd64.whl", hash = "sha256:f27cec5e7f588c3d1051651830ecc00294f90728d19c3bf6916e6dba93ea357c"},
+]
+xlrd = [
+    {file = "xlrd-1.1.0-py2.py3-none-any.whl", hash = "sha256:83a1d2f1091078fb3f65876753b5302c5cfb6a41de64b9587b74cefa75157148"},
+    {file = "xlrd-1.1.0.tar.gz", hash = "sha256:8a21885513e6d915fe33a8ee5fdfa675433b61405ba13e2a69e62ee36828d7e2"},
+]
+xlutils = [
+    {file = "xlutils-2.0.0-py2.py3-none-any.whl", hash = "sha256:b56640862c030e9d53104e7f1d750135fdfabf6bf55e425e5ac40fdee9dbaeb9"},
+    {file = "xlutils-2.0.0.tar.gz", hash = "sha256:7e0e2c233bd185fecf5e2bd3f4e9469ca4a3bd87da64c82cfe5b2af27e7f9e54"},
+]
+xlwt = [
+    {file = "xlwt-1.3.0-py2.py3-none-any.whl", hash = "sha256:a082260524678ba48a297d922cc385f58278b8aa68741596a87de01a9c628b2e"},
+    {file = "xlwt-1.3.0.tar.gz", hash = "sha256:c59912717a9b28f1a3c2a98fd60741014b06b043936dcecbc113eaaada156c88"},
+]

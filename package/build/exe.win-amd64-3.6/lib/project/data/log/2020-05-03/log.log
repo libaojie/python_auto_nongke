@@ -1,0 +1,1368 @@
+[INFO 2020-05-03 22:12:58]------------------启动项目-----------------------------
+[INFO 2020-05-03 22:12:58]平台信息：   【Windows-10-10.0.18362-SP0】
+[INFO 2020-05-03 22:12:58]当前路径：   【D:\04_code\github\python\read_html_venv\project】
+[INFO 2020-05-03 22:12:58]系统变量：   【['D:\\04_code\\github\\python\\read_html_venv\\project', 'D:\\04_code\\github\\python\\read_html_venv', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\Scripts\\python36.zip', 'C:\\Users\\snow\\AppData\\Local\\Programs\\Python\\Python36\\DLLs', 'C:\\Users\\snow\\AppData\\Local\\Programs\\Python\\Python36\\lib', 'C:\\Users\\snow\\AppData\\Local\\Programs\\Python\\Python36', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\lib\\site-packages', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\lib\\site-packages\\win32', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\lib\\site-packages\\win32\\lib', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\lib\\site-packages\\Pythonwin', 'C:\\Program Files\\JetBrains\\PyCharm 2018.1\\helpers\\pycharm_matplotlib_backend']】
+[INFO 2020-05-03 22:12:58]日志路径：   【D:\04_code\github\python\read_html_venv\project\data\log】
+[INFO 2020-05-03 22:12:58]main路径：   【D:\04_code\github\python\read_html_venv\project】
+[INFO 2020-05-03 22:12:58]python路径： 【C:\Users\snow\AppData\Local\pypoetry\Cache\virtualenvs\read-html-venv--Gq2blu2-py3.6\Scripts\python.exe】
+[INFO 2020-05-03 22:13:03]------------------启动项目-----------------------------
+[INFO 2020-05-03 22:13:03]平台信息：   【Windows-10-10.0.18362-SP0】
+[INFO 2020-05-03 22:13:03]当前路径：   【D:\04_code\github\python\read_html_venv\project】
+[INFO 2020-05-03 22:13:03]系统变量：   【['D:\\04_code\\github\\python\\read_html_venv\\project', 'D:\\04_code\\github\\python\\read_html_venv', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\Scripts\\python36.zip', 'C:\\Users\\snow\\AppData\\Local\\Programs\\Python\\Python36\\DLLs', 'C:\\Users\\snow\\AppData\\Local\\Programs\\Python\\Python36\\lib', 'C:\\Users\\snow\\AppData\\Local\\Programs\\Python\\Python36', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\lib\\site-packages', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\lib\\site-packages\\win32', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\lib\\site-packages\\win32\\lib', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\lib\\site-packages\\Pythonwin', 'C:\\Program Files\\JetBrains\\PyCharm 2018.1\\helpers\\pycharm_matplotlib_backend']】
+[INFO 2020-05-03 22:13:03]日志路径：   【D:\04_code\github\python\read_html_venv\project\data\log】
+[INFO 2020-05-03 22:13:03]main路径：   【D:\04_code\github\python\read_html_venv\project】
+[INFO 2020-05-03 22:13:03]python路径： 【C:\Users\snow\AppData\Local\pypoetry\Cache\virtualenvs\read-html-venv--Gq2blu2-py3.6\Scripts\python.exe】
+[INFO 2020-05-03 22:13:12]------------------启动项目-----------------------------
+[INFO 2020-05-03 22:13:12]平台信息：   【Windows-10-10.0.18362-SP0】
+[INFO 2020-05-03 22:13:12]当前路径：   【D:\04_code\github\python\read_html_venv\project】
+[INFO 2020-05-03 22:13:12]系统变量：   【['D:\\04_code\\github\\python\\read_html_venv\\project', 'D:\\04_code\\github\\python\\read_html_venv', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\Scripts\\python36.zip', 'C:\\Users\\snow\\AppData\\Local\\Programs\\Python\\Python36\\DLLs', 'C:\\Users\\snow\\AppData\\Local\\Programs\\Python\\Python36\\lib', 'C:\\Users\\snow\\AppData\\Local\\Programs\\Python\\Python36', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\lib\\site-packages', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\lib\\site-packages\\win32', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\lib\\site-packages\\win32\\lib', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\lib\\site-packages\\Pythonwin', 'C:\\Program Files\\JetBrains\\PyCharm 2018.1\\helpers\\pycharm_matplotlib_backend']】
+[INFO 2020-05-03 22:13:12]日志路径：   【D:\04_code\github\python\read_html_venv\project\data\log】
+[INFO 2020-05-03 22:13:12]main路径：   【D:\04_code\github\python\read_html_venv\project】
+[INFO 2020-05-03 22:13:12]python路径： 【C:\Users\snow\AppData\Local\pypoetry\Cache\virtualenvs\read-html-venv--Gq2blu2-py3.6\Scripts\python.exe】
+[INFO 2020-05-03 22:13:19]------------------启动项目-----------------------------
+[INFO 2020-05-03 22:13:19]平台信息：   【Windows-10-10.0.18362-SP0】
+[INFO 2020-05-03 22:13:19]当前路径：   【D:\04_code\github\python\read_html_venv\project】
+[INFO 2020-05-03 22:13:19]系统变量：   【['D:\\04_code\\github\\python\\read_html_venv\\project', 'D:\\04_code\\github\\python\\read_html_venv', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\Scripts\\python36.zip', 'C:\\Users\\snow\\AppData\\Local\\Programs\\Python\\Python36\\DLLs', 'C:\\Users\\snow\\AppData\\Local\\Programs\\Python\\Python36\\lib', 'C:\\Users\\snow\\AppData\\Local\\Programs\\Python\\Python36', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\lib\\site-packages', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\lib\\site-packages\\win32', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\lib\\site-packages\\win32\\lib', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\lib\\site-packages\\Pythonwin', 'C:\\Program Files\\JetBrains\\PyCharm 2018.1\\helpers\\pycharm_matplotlib_backend']】
+[INFO 2020-05-03 22:13:19]日志路径：   【D:\04_code\github\python\read_html_venv\project\data\log】
+[INFO 2020-05-03 22:13:19]main路径：   【D:\04_code\github\python\read_html_venv\project】
+[INFO 2020-05-03 22:13:19]python路径： 【C:\Users\snow\AppData\Local\pypoetry\Cache\virtualenvs\read-html-venv--Gq2blu2-py3.6\Scripts\python.exe】
+[INFO 2020-05-03 22:13:25]------------------启动项目-----------------------------
+[INFO 2020-05-03 22:13:25]平台信息：   【Windows-10-10.0.18362-SP0】
+[INFO 2020-05-03 22:13:25]当前路径：   【D:\04_code\github\python\read_html_venv\project】
+[INFO 2020-05-03 22:13:25]系统变量：   【['D:\\04_code\\github\\python\\read_html_venv\\project', 'D:\\04_code\\github\\python\\read_html_venv', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\Scripts\\python36.zip', 'C:\\Users\\snow\\AppData\\Local\\Programs\\Python\\Python36\\DLLs', 'C:\\Users\\snow\\AppData\\Local\\Programs\\Python\\Python36\\lib', 'C:\\Users\\snow\\AppData\\Local\\Programs\\Python\\Python36', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\lib\\site-packages', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\lib\\site-packages\\win32', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\lib\\site-packages\\win32\\lib', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\lib\\site-packages\\Pythonwin', 'C:\\Program Files\\JetBrains\\PyCharm 2018.1\\helpers\\pycharm_matplotlib_backend']】
+[INFO 2020-05-03 22:13:25]日志路径：   【D:\04_code\github\python\read_html_venv\project\data\log】
+[INFO 2020-05-03 22:13:25]main路径：   【D:\04_code\github\python\read_html_venv\project】
+[INFO 2020-05-03 22:13:25]python路径： 【C:\Users\snow\AppData\Local\pypoetry\Cache\virtualenvs\read-html-venv--Gq2blu2-py3.6\Scripts\python.exe】
+[INFO 2020-05-03 22:13:31]------------------启动项目-----------------------------
+[INFO 2020-05-03 22:13:31]平台信息：   【Windows-10-10.0.18362-SP0】
+[INFO 2020-05-03 22:13:31]当前路径：   【D:\04_code\github\python\read_html_venv\project】
+[INFO 2020-05-03 22:13:31]系统变量：   【['D:\\04_code\\github\\python\\read_html_venv\\project', 'D:\\04_code\\github\\python\\read_html_venv', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\Scripts\\python36.zip', 'C:\\Users\\snow\\AppData\\Local\\Programs\\Python\\Python36\\DLLs', 'C:\\Users\\snow\\AppData\\Local\\Programs\\Python\\Python36\\lib', 'C:\\Users\\snow\\AppData\\Local\\Programs\\Python\\Python36', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\lib\\site-packages', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\lib\\site-packages\\win32', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\lib\\site-packages\\win32\\lib', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\lib\\site-packages\\Pythonwin', 'C:\\Program Files\\JetBrains\\PyCharm 2018.1\\helpers\\pycharm_matplotlib_backend']】
+[INFO 2020-05-03 22:13:31]日志路径：   【D:\04_code\github\python\read_html_venv\project\data\log】
+[INFO 2020-05-03 22:13:31]main路径：   【D:\04_code\github\python\read_html_venv\project】
+[INFO 2020-05-03 22:13:31]python路径： 【C:\Users\snow\AppData\Local\pypoetry\Cache\virtualenvs\read-html-venv--Gq2blu2-py3.6\Scripts\python.exe】
+[INFO 2020-05-03 22:14:16]------------------启动项目-----------------------------
+[INFO 2020-05-03 22:14:16]平台信息：   【Windows-10-10.0.18362-SP0】
+[INFO 2020-05-03 22:14:16]当前路径：   【D:\04_code\github\python\read_html_venv\project】
+[INFO 2020-05-03 22:14:16]系统变量：   【['D:\\04_code\\github\\python\\read_html_venv\\project', 'D:\\04_code\\github\\python\\read_html_venv', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\Scripts\\python36.zip', 'C:\\Users\\snow\\AppData\\Local\\Programs\\Python\\Python36\\DLLs', 'C:\\Users\\snow\\AppData\\Local\\Programs\\Python\\Python36\\lib', 'C:\\Users\\snow\\AppData\\Local\\Programs\\Python\\Python36', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\lib\\site-packages', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\lib\\site-packages\\win32', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\lib\\site-packages\\win32\\lib', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\lib\\site-packages\\Pythonwin', 'C:\\Program Files\\JetBrains\\PyCharm 2018.1\\helpers\\pycharm_matplotlib_backend']】
+[INFO 2020-05-03 22:14:16]日志路径：   【D:\04_code\github\python\read_html_venv\project\data\log】
+[INFO 2020-05-03 22:14:16]main路径：   【D:\04_code\github\python\read_html_venv\project】
+[INFO 2020-05-03 22:14:16]python路径： 【C:\Users\snow\AppData\Local\pypoetry\Cache\virtualenvs\read-html-venv--Gq2blu2-py3.6\Scripts\python.exe】
+[INFO 2020-05-03 22:15:21]------------------启动项目-----------------------------
+[INFO 2020-05-03 22:15:21]平台信息：   【Windows-10-10.0.18362-SP0】
+[INFO 2020-05-03 22:15:21]当前路径：   【D:\04_code\github\python\read_html_venv\project】
+[INFO 2020-05-03 22:15:21]系统变量：   【['D:\\04_code\\github\\python\\read_html_venv\\project', 'D:\\04_code\\github\\python\\read_html_venv', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\Scripts\\python36.zip', 'C:\\Users\\snow\\AppData\\Local\\Programs\\Python\\Python36\\DLLs', 'C:\\Users\\snow\\AppData\\Local\\Programs\\Python\\Python36\\lib', 'C:\\Users\\snow\\AppData\\Local\\Programs\\Python\\Python36', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\lib\\site-packages', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\lib\\site-packages\\win32', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\lib\\site-packages\\win32\\lib', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\lib\\site-packages\\Pythonwin', 'C:\\Program Files\\JetBrains\\PyCharm 2018.1\\helpers\\pycharm_matplotlib_backend']】
+[INFO 2020-05-03 22:15:21]日志路径：   【D:\04_code\github\python\read_html_venv\project\data\log】
+[INFO 2020-05-03 22:15:21]main路径：   【D:\04_code\github\python\read_html_venv\project】
+[INFO 2020-05-03 22:15:21]python路径： 【C:\Users\snow\AppData\Local\pypoetry\Cache\virtualenvs\read-html-venv--Gq2blu2-py3.6\Scripts\python.exe】
+[INFO 2020-05-03 22:15:37]------------------启动项目-----------------------------
+[INFO 2020-05-03 22:15:37]平台信息：   【Windows-10-10.0.18362-SP0】
+[INFO 2020-05-03 22:15:37]当前路径：   【D:\04_code\github\python\read_html_venv\project】
+[INFO 2020-05-03 22:15:37]系统变量：   【['D:\\04_code\\github\\python\\read_html_venv\\project', 'D:\\04_code\\github\\python\\read_html_venv', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\Scripts\\python36.zip', 'C:\\Users\\snow\\AppData\\Local\\Programs\\Python\\Python36\\DLLs', 'C:\\Users\\snow\\AppData\\Local\\Programs\\Python\\Python36\\lib', 'C:\\Users\\snow\\AppData\\Local\\Programs\\Python\\Python36', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\lib\\site-packages', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\lib\\site-packages\\win32', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\lib\\site-packages\\win32\\lib', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\lib\\site-packages\\Pythonwin', 'C:\\Program Files\\JetBrains\\PyCharm 2018.1\\helpers\\pycharm_matplotlib_backend']】
+[INFO 2020-05-03 22:15:37]日志路径：   【D:\04_code\github\python\read_html_venv\project\data\log】
+[INFO 2020-05-03 22:15:37]main路径：   【D:\04_code\github\python\read_html_venv\project】
+[INFO 2020-05-03 22:15:37]python路径： 【C:\Users\snow\AppData\Local\pypoetry\Cache\virtualenvs\read-html-venv--Gq2blu2-py3.6\Scripts\python.exe】
+[INFO 2020-05-03 22:16:28]------------------启动项目-----------------------------
+[INFO 2020-05-03 22:16:28]平台信息：   【Windows-10-10.0.18362-SP0】
+[INFO 2020-05-03 22:16:28]当前路径：   【D:\04_code\github\python\read_html_venv\project】
+[INFO 2020-05-03 22:16:28]系统变量：   【['D:\\04_code\\github\\python\\read_html_venv\\project', 'D:\\04_code\\github\\python\\read_html_venv', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\Scripts\\python36.zip', 'C:\\Users\\snow\\AppData\\Local\\Programs\\Python\\Python36\\DLLs', 'C:\\Users\\snow\\AppData\\Local\\Programs\\Python\\Python36\\lib', 'C:\\Users\\snow\\AppData\\Local\\Programs\\Python\\Python36', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\lib\\site-packages', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\lib\\site-packages\\win32', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\lib\\site-packages\\win32\\lib', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\lib\\site-packages\\Pythonwin', 'C:\\Program Files\\JetBrains\\PyCharm 2018.1\\helpers\\pycharm_matplotlib_backend']】
+[INFO 2020-05-03 22:16:28]日志路径：   【D:\04_code\github\python\read_html_venv\project\data\log】
+[INFO 2020-05-03 22:16:28]main路径：   【D:\04_code\github\python\read_html_venv\project】
+[INFO 2020-05-03 22:16:28]python路径： 【C:\Users\snow\AppData\Local\pypoetry\Cache\virtualenvs\read-html-venv--Gq2blu2-py3.6\Scripts\python.exe】
+[INFO 2020-05-03 22:16:35]------------------启动项目-----------------------------
+[INFO 2020-05-03 22:16:35]平台信息：   【Windows-10-10.0.18362-SP0】
+[INFO 2020-05-03 22:16:35]当前路径：   【D:\04_code\github\python\read_html_venv\project】
+[INFO 2020-05-03 22:16:35]系统变量：   【['D:\\04_code\\github\\python\\read_html_venv\\project', 'D:\\04_code\\github\\python\\read_html_venv', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\Scripts\\python36.zip', 'C:\\Users\\snow\\AppData\\Local\\Programs\\Python\\Python36\\DLLs', 'C:\\Users\\snow\\AppData\\Local\\Programs\\Python\\Python36\\lib', 'C:\\Users\\snow\\AppData\\Local\\Programs\\Python\\Python36', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\lib\\site-packages', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\lib\\site-packages\\win32', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\lib\\site-packages\\win32\\lib', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\lib\\site-packages\\Pythonwin', 'C:\\Program Files\\JetBrains\\PyCharm 2018.1\\helpers\\pycharm_matplotlib_backend']】
+[INFO 2020-05-03 22:16:35]日志路径：   【D:\04_code\github\python\read_html_venv\project\data\log】
+[INFO 2020-05-03 22:16:35]main路径：   【D:\04_code\github\python\read_html_venv\project】
+[INFO 2020-05-03 22:16:35]python路径： 【C:\Users\snow\AppData\Local\pypoetry\Cache\virtualenvs\read-html-venv--Gq2blu2-py3.6\Scripts\python.exe】
+[INFO 2020-05-03 22:16:49]------------------启动项目-----------------------------
+[INFO 2020-05-03 22:16:49]平台信息：   【Windows-10-10.0.18362-SP0】
+[INFO 2020-05-03 22:16:49]当前路径：   【D:\04_code\github\python\read_html_venv\project】
+[INFO 2020-05-03 22:16:49]系统变量：   【['D:\\04_code\\github\\python\\read_html_venv\\project', 'D:\\04_code\\github\\python\\read_html_venv', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\Scripts\\python36.zip', 'C:\\Users\\snow\\AppData\\Local\\Programs\\Python\\Python36\\DLLs', 'C:\\Users\\snow\\AppData\\Local\\Programs\\Python\\Python36\\lib', 'C:\\Users\\snow\\AppData\\Local\\Programs\\Python\\Python36', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\lib\\site-packages', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\lib\\site-packages\\win32', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\lib\\site-packages\\win32\\lib', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\lib\\site-packages\\Pythonwin', 'C:\\Program Files\\JetBrains\\PyCharm 2018.1\\helpers\\pycharm_matplotlib_backend']】
+[INFO 2020-05-03 22:16:49]日志路径：   【D:\04_code\github\python\read_html_venv\project\data\log】
+[INFO 2020-05-03 22:16:49]main路径：   【D:\04_code\github\python\read_html_venv\project】
+[INFO 2020-05-03 22:16:49]python路径： 【C:\Users\snow\AppData\Local\pypoetry\Cache\virtualenvs\read-html-venv--Gq2blu2-py3.6\Scripts\python.exe】
+[INFO 2020-05-03 22:17:05]------------------启动项目-----------------------------
+[INFO 2020-05-03 22:17:06]平台信息：   【Windows-10-10.0.18362-SP0】
+[INFO 2020-05-03 22:17:06]当前路径：   【D:\04_code\github\python\read_html_venv\project】
+[INFO 2020-05-03 22:17:06]系统变量：   【['D:\\04_code\\github\\python\\read_html_venv\\project', 'D:\\04_code\\github\\python\\read_html_venv', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\Scripts\\python36.zip', 'C:\\Users\\snow\\AppData\\Local\\Programs\\Python\\Python36\\DLLs', 'C:\\Users\\snow\\AppData\\Local\\Programs\\Python\\Python36\\lib', 'C:\\Users\\snow\\AppData\\Local\\Programs\\Python\\Python36', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\lib\\site-packages', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\lib\\site-packages\\win32', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\lib\\site-packages\\win32\\lib', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\lib\\site-packages\\Pythonwin', 'C:\\Program Files\\JetBrains\\PyCharm 2018.1\\helpers\\pycharm_matplotlib_backend']】
+[INFO 2020-05-03 22:17:06]日志路径：   【D:\04_code\github\python\read_html_venv\project\data\log】
+[INFO 2020-05-03 22:17:06]main路径：   【D:\04_code\github\python\read_html_venv\project】
+[INFO 2020-05-03 22:17:06]python路径： 【C:\Users\snow\AppData\Local\pypoetry\Cache\virtualenvs\read-html-venv--Gq2blu2-py3.6\Scripts\python.exe】
+[INFO 2020-05-03 22:17:18]------------------启动项目-----------------------------
+[INFO 2020-05-03 22:17:18]平台信息：   【Windows-10-10.0.18362-SP0】
+[INFO 2020-05-03 22:17:18]当前路径：   【D:\04_code\github\python\read_html_venv\project】
+[INFO 2020-05-03 22:17:18]系统变量：   【['D:\\04_code\\github\\python\\read_html_venv\\project', 'D:\\04_code\\github\\python\\read_html_venv', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\Scripts\\python36.zip', 'C:\\Users\\snow\\AppData\\Local\\Programs\\Python\\Python36\\DLLs', 'C:\\Users\\snow\\AppData\\Local\\Programs\\Python\\Python36\\lib', 'C:\\Users\\snow\\AppData\\Local\\Programs\\Python\\Python36', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\lib\\site-packages', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\lib\\site-packages\\win32', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\lib\\site-packages\\win32\\lib', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\lib\\site-packages\\Pythonwin', 'C:\\Program Files\\JetBrains\\PyCharm 2018.1\\helpers\\pycharm_matplotlib_backend']】
+[INFO 2020-05-03 22:17:18]日志路径：   【D:\04_code\github\python\read_html_venv\project\data\log】
+[INFO 2020-05-03 22:17:18]main路径：   【D:\04_code\github\python\read_html_venv\project】
+[INFO 2020-05-03 22:17:18]python路径： 【C:\Users\snow\AppData\Local\pypoetry\Cache\virtualenvs\read-html-venv--Gq2blu2-py3.6\Scripts\python.exe】
+[INFO 2020-05-03 22:17:57]------------------启动项目-----------------------------
+[INFO 2020-05-03 22:17:57]平台信息：   【Windows-10-10.0.18362-SP0】
+[INFO 2020-05-03 22:17:57]当前路径：   【D:\04_code\github\python\read_html_venv\project】
+[INFO 2020-05-03 22:17:57]系统变量：   【['D:\\04_code\\github\\python\\read_html_venv\\project', 'D:\\04_code\\github\\python\\read_html_venv', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\Scripts\\python36.zip', 'C:\\Users\\snow\\AppData\\Local\\Programs\\Python\\Python36\\DLLs', 'C:\\Users\\snow\\AppData\\Local\\Programs\\Python\\Python36\\lib', 'C:\\Users\\snow\\AppData\\Local\\Programs\\Python\\Python36', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\lib\\site-packages', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\lib\\site-packages\\win32', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\lib\\site-packages\\win32\\lib', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\lib\\site-packages\\Pythonwin', 'C:\\Program Files\\JetBrains\\PyCharm 2018.1\\helpers\\pycharm_matplotlib_backend']】
+[INFO 2020-05-03 22:17:57]日志路径：   【D:\04_code\github\python\read_html_venv\project\data\log】
+[INFO 2020-05-03 22:17:57]main路径：   【D:\04_code\github\python\read_html_venv\project】
+[INFO 2020-05-03 22:17:57]python路径： 【C:\Users\snow\AppData\Local\pypoetry\Cache\virtualenvs\read-html-venv--Gq2blu2-py3.6\Scripts\python.exe】
+[INFO 2020-05-03 22:18:03]------------------启动项目-----------------------------
+[INFO 2020-05-03 22:18:03]平台信息：   【Windows-10-10.0.18362-SP0】
+[INFO 2020-05-03 22:18:03]当前路径：   【D:\04_code\github\python\read_html_venv\project】
+[INFO 2020-05-03 22:18:03]系统变量：   【['D:\\04_code\\github\\python\\read_html_venv\\project', 'D:\\04_code\\github\\python\\read_html_venv', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\Scripts\\python36.zip', 'C:\\Users\\snow\\AppData\\Local\\Programs\\Python\\Python36\\DLLs', 'C:\\Users\\snow\\AppData\\Local\\Programs\\Python\\Python36\\lib', 'C:\\Users\\snow\\AppData\\Local\\Programs\\Python\\Python36', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\lib\\site-packages', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\lib\\site-packages\\win32', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\lib\\site-packages\\win32\\lib', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\lib\\site-packages\\Pythonwin', 'C:\\Program Files\\JetBrains\\PyCharm 2018.1\\helpers\\pycharm_matplotlib_backend']】
+[INFO 2020-05-03 22:18:03]日志路径：   【D:\04_code\github\python\read_html_venv\project\data\log】
+[INFO 2020-05-03 22:18:03]main路径：   【D:\04_code\github\python\read_html_venv\project】
+[INFO 2020-05-03 22:18:03]python路径： 【C:\Users\snow\AppData\Local\pypoetry\Cache\virtualenvs\read-html-venv--Gq2blu2-py3.6\Scripts\python.exe】
+[INFO 2020-05-03 22:18:42]------------------启动项目-----------------------------
+[INFO 2020-05-03 22:18:42]平台信息：   【Windows-10-10.0.18362-SP0】
+[INFO 2020-05-03 22:18:42]当前路径：   【D:\04_code\github\python\read_html_venv\project】
+[INFO 2020-05-03 22:18:42]系统变量：   【['D:\\04_code\\github\\python\\read_html_venv\\project', 'D:\\04_code\\github\\python\\read_html_venv', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\Scripts\\python36.zip', 'C:\\Users\\snow\\AppData\\Local\\Programs\\Python\\Python36\\DLLs', 'C:\\Users\\snow\\AppData\\Local\\Programs\\Python\\Python36\\lib', 'C:\\Users\\snow\\AppData\\Local\\Programs\\Python\\Python36', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\lib\\site-packages', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\lib\\site-packages\\win32', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\lib\\site-packages\\win32\\lib', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\lib\\site-packages\\Pythonwin', 'C:\\Program Files\\JetBrains\\PyCharm 2018.1\\helpers\\pycharm_matplotlib_backend']】
+[INFO 2020-05-03 22:18:42]日志路径：   【D:\04_code\github\python\read_html_venv\project\data\log】
+[INFO 2020-05-03 22:18:42]main路径：   【D:\04_code\github\python\read_html_venv\project】
+[INFO 2020-05-03 22:18:42]python路径： 【C:\Users\snow\AppData\Local\pypoetry\Cache\virtualenvs\read-html-venv--Gq2blu2-py3.6\Scripts\python.exe】
+[INFO 2020-05-03 22:18:50]------------------启动项目-----------------------------
+[INFO 2020-05-03 22:18:50]平台信息：   【Windows-10-10.0.18362-SP0】
+[INFO 2020-05-03 22:18:50]当前路径：   【D:\04_code\github\python\read_html_venv\project】
+[INFO 2020-05-03 22:18:50]系统变量：   【['D:\\04_code\\github\\python\\read_html_venv\\project', 'D:\\04_code\\github\\python\\read_html_venv', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\Scripts\\python36.zip', 'C:\\Users\\snow\\AppData\\Local\\Programs\\Python\\Python36\\DLLs', 'C:\\Users\\snow\\AppData\\Local\\Programs\\Python\\Python36\\lib', 'C:\\Users\\snow\\AppData\\Local\\Programs\\Python\\Python36', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\lib\\site-packages', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\lib\\site-packages\\win32', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\lib\\site-packages\\win32\\lib', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\lib\\site-packages\\Pythonwin', 'C:\\Program Files\\JetBrains\\PyCharm 2018.1\\helpers\\pycharm_matplotlib_backend']】
+[INFO 2020-05-03 22:18:50]日志路径：   【D:\04_code\github\python\read_html_venv\project\data\log】
+[INFO 2020-05-03 22:18:50]main路径：   【D:\04_code\github\python\read_html_venv\project】
+[INFO 2020-05-03 22:18:50]python路径： 【C:\Users\snow\AppData\Local\pypoetry\Cache\virtualenvs\read-html-venv--Gq2blu2-py3.6\Scripts\python.exe】
+[INFO 2020-05-03 22:18:53]------------------启动项目-----------------------------
+[INFO 2020-05-03 22:18:53]平台信息：   【Windows-10-10.0.18362-SP0】
+[INFO 2020-05-03 22:18:53]当前路径：   【D:\04_code\github\python\read_html_venv\project】
+[INFO 2020-05-03 22:18:53]系统变量：   【['D:\\04_code\\github\\python\\read_html_venv\\project', 'D:\\04_code\\github\\python\\read_html_venv', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\Scripts\\python36.zip', 'C:\\Users\\snow\\AppData\\Local\\Programs\\Python\\Python36\\DLLs', 'C:\\Users\\snow\\AppData\\Local\\Programs\\Python\\Python36\\lib', 'C:\\Users\\snow\\AppData\\Local\\Programs\\Python\\Python36', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\lib\\site-packages', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\lib\\site-packages\\win32', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\lib\\site-packages\\win32\\lib', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\lib\\site-packages\\Pythonwin', 'C:\\Program Files\\JetBrains\\PyCharm 2018.1\\helpers\\pycharm_matplotlib_backend']】
+[INFO 2020-05-03 22:18:53]日志路径：   【D:\04_code\github\python\read_html_venv\project\data\log】
+[INFO 2020-05-03 22:18:53]main路径：   【D:\04_code\github\python\read_html_venv\project】
+[INFO 2020-05-03 22:18:53]python路径： 【C:\Users\snow\AppData\Local\pypoetry\Cache\virtualenvs\read-html-venv--Gq2blu2-py3.6\Scripts\python.exe】
+[INFO 2020-05-03 22:18:57]------------------启动项目-----------------------------
+[INFO 2020-05-03 22:18:57]平台信息：   【Windows-10-10.0.18362-SP0】
+[INFO 2020-05-03 22:18:57]当前路径：   【D:\04_code\github\python\read_html_venv\project】
+[INFO 2020-05-03 22:18:57]系统变量：   【['D:\\04_code\\github\\python\\read_html_venv\\project', 'D:\\04_code\\github\\python\\read_html_venv', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\Scripts\\python36.zip', 'C:\\Users\\snow\\AppData\\Local\\Programs\\Python\\Python36\\DLLs', 'C:\\Users\\snow\\AppData\\Local\\Programs\\Python\\Python36\\lib', 'C:\\Users\\snow\\AppData\\Local\\Programs\\Python\\Python36', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\lib\\site-packages', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\lib\\site-packages\\win32', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\lib\\site-packages\\win32\\lib', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\lib\\site-packages\\Pythonwin', 'C:\\Program Files\\JetBrains\\PyCharm 2018.1\\helpers\\pycharm_matplotlib_backend']】
+[INFO 2020-05-03 22:18:57]日志路径：   【D:\04_code\github\python\read_html_venv\project\data\log】
+[INFO 2020-05-03 22:18:57]main路径：   【D:\04_code\github\python\read_html_venv\project】
+[INFO 2020-05-03 22:18:57]python路径： 【C:\Users\snow\AppData\Local\pypoetry\Cache\virtualenvs\read-html-venv--Gq2blu2-py3.6\Scripts\python.exe】
+[INFO 2020-05-03 22:19:04]------------------启动项目-----------------------------
+[INFO 2020-05-03 22:19:04]平台信息：   【Windows-10-10.0.18362-SP0】
+[INFO 2020-05-03 22:19:04]当前路径：   【D:\04_code\github\python\read_html_venv\project】
+[INFO 2020-05-03 22:19:04]系统变量：   【['D:\\04_code\\github\\python\\read_html_venv\\project', 'D:\\04_code\\github\\python\\read_html_venv', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\Scripts\\python36.zip', 'C:\\Users\\snow\\AppData\\Local\\Programs\\Python\\Python36\\DLLs', 'C:\\Users\\snow\\AppData\\Local\\Programs\\Python\\Python36\\lib', 'C:\\Users\\snow\\AppData\\Local\\Programs\\Python\\Python36', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\lib\\site-packages', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\lib\\site-packages\\win32', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\lib\\site-packages\\win32\\lib', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\lib\\site-packages\\Pythonwin', 'C:\\Program Files\\JetBrains\\PyCharm 2018.1\\helpers\\pycharm_matplotlib_backend']】
+[INFO 2020-05-03 22:19:04]日志路径：   【D:\04_code\github\python\read_html_venv\project\data\log】
+[INFO 2020-05-03 22:19:04]main路径：   【D:\04_code\github\python\read_html_venv\project】
+[INFO 2020-05-03 22:19:04]python路径： 【C:\Users\snow\AppData\Local\pypoetry\Cache\virtualenvs\read-html-venv--Gq2blu2-py3.6\Scripts\python.exe】
+[INFO 2020-05-03 22:19:24]------------------启动项目-----------------------------
+[INFO 2020-05-03 22:19:24]平台信息：   【Windows-10-10.0.18362-SP0】
+[INFO 2020-05-03 22:19:24]当前路径：   【D:\04_code\github\python\read_html_venv\project】
+[INFO 2020-05-03 22:19:24]系统变量：   【['D:\\04_code\\github\\python\\read_html_venv\\project', 'D:\\04_code\\github\\python\\read_html_venv', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\Scripts\\python36.zip', 'C:\\Users\\snow\\AppData\\Local\\Programs\\Python\\Python36\\DLLs', 'C:\\Users\\snow\\AppData\\Local\\Programs\\Python\\Python36\\lib', 'C:\\Users\\snow\\AppData\\Local\\Programs\\Python\\Python36', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\lib\\site-packages', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\lib\\site-packages\\win32', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\lib\\site-packages\\win32\\lib', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\lib\\site-packages\\Pythonwin', 'C:\\Program Files\\JetBrains\\PyCharm 2018.1\\helpers\\pycharm_matplotlib_backend']】
+[INFO 2020-05-03 22:19:24]日志路径：   【D:\04_code\github\python\read_html_venv\project\data\log】
+[INFO 2020-05-03 22:19:24]main路径：   【D:\04_code\github\python\read_html_venv\project】
+[INFO 2020-05-03 22:19:24]python路径： 【C:\Users\snow\AppData\Local\pypoetry\Cache\virtualenvs\read-html-venv--Gq2blu2-py3.6\Scripts\python.exe】
+[INFO 2020-05-03 22:19:46]------------------启动项目-----------------------------
+[INFO 2020-05-03 22:19:46]平台信息：   【Windows-10-10.0.18362-SP0】
+[INFO 2020-05-03 22:19:46]当前路径：   【D:\04_code\github\python\read_html_venv\project】
+[INFO 2020-05-03 22:19:46]系统变量：   【['D:\\04_code\\github\\python\\read_html_venv\\project', 'D:\\04_code\\github\\python\\read_html_venv', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\Scripts\\python36.zip', 'C:\\Users\\snow\\AppData\\Local\\Programs\\Python\\Python36\\DLLs', 'C:\\Users\\snow\\AppData\\Local\\Programs\\Python\\Python36\\lib', 'C:\\Users\\snow\\AppData\\Local\\Programs\\Python\\Python36', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\lib\\site-packages', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\lib\\site-packages\\win32', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\lib\\site-packages\\win32\\lib', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\lib\\site-packages\\Pythonwin', 'C:\\Program Files\\JetBrains\\PyCharm 2018.1\\helpers\\pycharm_matplotlib_backend']】
+[INFO 2020-05-03 22:19:46]日志路径：   【D:\04_code\github\python\read_html_venv\project\data\log】
+[INFO 2020-05-03 22:19:46]main路径：   【D:\04_code\github\python\read_html_venv\project】
+[INFO 2020-05-03 22:19:46]python路径： 【C:\Users\snow\AppData\Local\pypoetry\Cache\virtualenvs\read-html-venv--Gq2blu2-py3.6\Scripts\python.exe】
+[INFO 2020-05-03 22:19:56]------------------启动项目-----------------------------
+[INFO 2020-05-03 22:19:56]平台信息：   【Windows-10-10.0.18362-SP0】
+[INFO 2020-05-03 22:19:56]当前路径：   【D:\04_code\github\python\read_html_venv\project】
+[INFO 2020-05-03 22:19:56]系统变量：   【['D:\\04_code\\github\\python\\read_html_venv\\project', 'D:\\04_code\\github\\python\\read_html_venv', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\Scripts\\python36.zip', 'C:\\Users\\snow\\AppData\\Local\\Programs\\Python\\Python36\\DLLs', 'C:\\Users\\snow\\AppData\\Local\\Programs\\Python\\Python36\\lib', 'C:\\Users\\snow\\AppData\\Local\\Programs\\Python\\Python36', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\lib\\site-packages', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\lib\\site-packages\\win32', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\lib\\site-packages\\win32\\lib', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\lib\\site-packages\\Pythonwin', 'C:\\Program Files\\JetBrains\\PyCharm 2018.1\\helpers\\pycharm_matplotlib_backend']】
+[INFO 2020-05-03 22:19:56]日志路径：   【D:\04_code\github\python\read_html_venv\project\data\log】
+[INFO 2020-05-03 22:19:56]main路径：   【D:\04_code\github\python\read_html_venv\project】
+[INFO 2020-05-03 22:19:56]python路径： 【C:\Users\snow\AppData\Local\pypoetry\Cache\virtualenvs\read-html-venv--Gq2blu2-py3.6\Scripts\python.exe】
+[INFO 2020-05-03 22:20:25]------------------启动项目-----------------------------
+[INFO 2020-05-03 22:20:25]平台信息：   【Windows-10-10.0.18362-SP0】
+[INFO 2020-05-03 22:20:25]当前路径：   【D:\04_code\github\python\read_html_venv\project】
+[INFO 2020-05-03 22:20:25]系统变量：   【['D:\\04_code\\github\\python\\read_html_venv\\project', 'D:\\04_code\\github\\python\\read_html_venv', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\Scripts\\python36.zip', 'C:\\Users\\snow\\AppData\\Local\\Programs\\Python\\Python36\\DLLs', 'C:\\Users\\snow\\AppData\\Local\\Programs\\Python\\Python36\\lib', 'C:\\Users\\snow\\AppData\\Local\\Programs\\Python\\Python36', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\lib\\site-packages', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\lib\\site-packages\\win32', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\lib\\site-packages\\win32\\lib', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\lib\\site-packages\\Pythonwin', 'C:\\Program Files\\JetBrains\\PyCharm 2018.1\\helpers\\pycharm_matplotlib_backend']】
+[INFO 2020-05-03 22:20:25]日志路径：   【D:\04_code\github\python\read_html_venv\project\data\log】
+[INFO 2020-05-03 22:20:25]main路径：   【D:\04_code\github\python\read_html_venv\project】
+[INFO 2020-05-03 22:20:25]python路径： 【C:\Users\snow\AppData\Local\pypoetry\Cache\virtualenvs\read-html-venv--Gq2blu2-py3.6\Scripts\python.exe】
+[INFO 2020-05-03 22:20:44]------------------启动项目-----------------------------
+[INFO 2020-05-03 22:20:44]平台信息：   【Windows-10-10.0.18362-SP0】
+[INFO 2020-05-03 22:20:44]当前路径：   【D:\04_code\github\python\read_html_venv\project】
+[INFO 2020-05-03 22:20:44]系统变量：   【['D:\\04_code\\github\\python\\read_html_venv\\project', 'D:\\04_code\\github\\python\\read_html_venv', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\Scripts\\python36.zip', 'C:\\Users\\snow\\AppData\\Local\\Programs\\Python\\Python36\\DLLs', 'C:\\Users\\snow\\AppData\\Local\\Programs\\Python\\Python36\\lib', 'C:\\Users\\snow\\AppData\\Local\\Programs\\Python\\Python36', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\lib\\site-packages', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\lib\\site-packages\\win32', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\lib\\site-packages\\win32\\lib', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\lib\\site-packages\\Pythonwin', 'C:\\Program Files\\JetBrains\\PyCharm 2018.1\\helpers\\pycharm_matplotlib_backend']】
+[INFO 2020-05-03 22:20:44]日志路径：   【D:\04_code\github\python\read_html_venv\project\data\log】
+[INFO 2020-05-03 22:20:44]main路径：   【D:\04_code\github\python\read_html_venv\project】
+[INFO 2020-05-03 22:20:44]python路径： 【C:\Users\snow\AppData\Local\pypoetry\Cache\virtualenvs\read-html-venv--Gq2blu2-py3.6\Scripts\python.exe】
+[INFO 2020-05-03 22:20:51]------------------启动项目-----------------------------
+[INFO 2020-05-03 22:20:51]平台信息：   【Windows-10-10.0.18362-SP0】
+[INFO 2020-05-03 22:20:51]当前路径：   【D:\04_code\github\python\read_html_venv\project】
+[INFO 2020-05-03 22:20:51]系统变量：   【['D:\\04_code\\github\\python\\read_html_venv\\project', 'D:\\04_code\\github\\python\\read_html_venv', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\Scripts\\python36.zip', 'C:\\Users\\snow\\AppData\\Local\\Programs\\Python\\Python36\\DLLs', 'C:\\Users\\snow\\AppData\\Local\\Programs\\Python\\Python36\\lib', 'C:\\Users\\snow\\AppData\\Local\\Programs\\Python\\Python36', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\lib\\site-packages', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\lib\\site-packages\\win32', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\lib\\site-packages\\win32\\lib', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\lib\\site-packages\\Pythonwin', 'C:\\Program Files\\JetBrains\\PyCharm 2018.1\\helpers\\pycharm_matplotlib_backend']】
+[INFO 2020-05-03 22:20:51]日志路径：   【D:\04_code\github\python\read_html_venv\project\data\log】
+[INFO 2020-05-03 22:20:51]main路径：   【D:\04_code\github\python\read_html_venv\project】
+[INFO 2020-05-03 22:20:51]python路径： 【C:\Users\snow\AppData\Local\pypoetry\Cache\virtualenvs\read-html-venv--Gq2blu2-py3.6\Scripts\python.exe】
+[INFO 2020-05-03 22:21:08]------------------启动项目-----------------------------
+[INFO 2020-05-03 22:21:08]平台信息：   【Windows-10-10.0.18362-SP0】
+[INFO 2020-05-03 22:21:08]当前路径：   【D:\04_code\github\python\read_html_venv\project】
+[INFO 2020-05-03 22:21:08]系统变量：   【['D:\\04_code\\github\\python\\read_html_venv\\project', 'D:\\04_code\\github\\python\\read_html_venv', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\Scripts\\python36.zip', 'C:\\Users\\snow\\AppData\\Local\\Programs\\Python\\Python36\\DLLs', 'C:\\Users\\snow\\AppData\\Local\\Programs\\Python\\Python36\\lib', 'C:\\Users\\snow\\AppData\\Local\\Programs\\Python\\Python36', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\lib\\site-packages', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\lib\\site-packages\\win32', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\lib\\site-packages\\win32\\lib', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\lib\\site-packages\\Pythonwin', 'C:\\Program Files\\JetBrains\\PyCharm 2018.1\\helpers\\pycharm_matplotlib_backend']】
+[INFO 2020-05-03 22:21:08]日志路径：   【D:\04_code\github\python\read_html_venv\project\data\log】
+[INFO 2020-05-03 22:21:08]main路径：   【D:\04_code\github\python\read_html_venv\project】
+[INFO 2020-05-03 22:21:08]python路径： 【C:\Users\snow\AppData\Local\pypoetry\Cache\virtualenvs\read-html-venv--Gq2blu2-py3.6\Scripts\python.exe】
+[INFO 2020-05-03 22:21:17]------------------启动项目-----------------------------
+[INFO 2020-05-03 22:21:17]平台信息：   【Windows-10-10.0.18362-SP0】
+[INFO 2020-05-03 22:21:17]当前路径：   【D:\04_code\github\python\read_html_venv\project】
+[INFO 2020-05-03 22:21:17]系统变量：   【['D:\\04_code\\github\\python\\read_html_venv\\project', 'D:\\04_code\\github\\python\\read_html_venv', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\Scripts\\python36.zip', 'C:\\Users\\snow\\AppData\\Local\\Programs\\Python\\Python36\\DLLs', 'C:\\Users\\snow\\AppData\\Local\\Programs\\Python\\Python36\\lib', 'C:\\Users\\snow\\AppData\\Local\\Programs\\Python\\Python36', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\lib\\site-packages', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\lib\\site-packages\\win32', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\lib\\site-packages\\win32\\lib', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\lib\\site-packages\\Pythonwin', 'C:\\Program Files\\JetBrains\\PyCharm 2018.1\\helpers\\pycharm_matplotlib_backend']】
+[INFO 2020-05-03 22:21:17]日志路径：   【D:\04_code\github\python\read_html_venv\project\data\log】
+[INFO 2020-05-03 22:21:17]main路径：   【D:\04_code\github\python\read_html_venv\project】
+[INFO 2020-05-03 22:21:17]python路径： 【C:\Users\snow\AppData\Local\pypoetry\Cache\virtualenvs\read-html-venv--Gq2blu2-py3.6\Scripts\python.exe】
+[INFO 2020-05-03 22:21:43]------------------启动项目-----------------------------
+[INFO 2020-05-03 22:21:43]平台信息：   【Windows-10-10.0.18362-SP0】
+[INFO 2020-05-03 22:21:43]当前路径：   【D:\04_code\github\python\read_html_venv\project】
+[INFO 2020-05-03 22:21:43]系统变量：   【['D:\\04_code\\github\\python\\read_html_venv\\project', 'D:\\04_code\\github\\python\\read_html_venv', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\Scripts\\python36.zip', 'C:\\Users\\snow\\AppData\\Local\\Programs\\Python\\Python36\\DLLs', 'C:\\Users\\snow\\AppData\\Local\\Programs\\Python\\Python36\\lib', 'C:\\Users\\snow\\AppData\\Local\\Programs\\Python\\Python36', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\lib\\site-packages', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\lib\\site-packages\\win32', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\lib\\site-packages\\win32\\lib', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\lib\\site-packages\\Pythonwin', 'C:\\Program Files\\JetBrains\\PyCharm 2018.1\\helpers\\pycharm_matplotlib_backend']】
+[INFO 2020-05-03 22:21:43]日志路径：   【D:\04_code\github\python\read_html_venv\project\data\log】
+[INFO 2020-05-03 22:21:43]main路径：   【D:\04_code\github\python\read_html_venv\project】
+[INFO 2020-05-03 22:21:43]python路径： 【C:\Users\snow\AppData\Local\pypoetry\Cache\virtualenvs\read-html-venv--Gq2blu2-py3.6\Scripts\python.exe】
+[INFO 2020-05-03 22:23:02]------------------启动项目-----------------------------
+[INFO 2020-05-03 22:23:02]平台信息：   【Windows-10-10.0.18362-SP0】
+[INFO 2020-05-03 22:23:02]当前路径：   【D:\04_code\github\python\read_html_venv\project】
+[INFO 2020-05-03 22:23:02]系统变量：   【['D:\\04_code\\github\\python\\read_html_venv\\project', 'D:\\04_code\\github\\python\\read_html_venv', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\Scripts\\python36.zip', 'C:\\Users\\snow\\AppData\\Local\\Programs\\Python\\Python36\\DLLs', 'C:\\Users\\snow\\AppData\\Local\\Programs\\Python\\Python36\\lib', 'C:\\Users\\snow\\AppData\\Local\\Programs\\Python\\Python36', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\lib\\site-packages', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\lib\\site-packages\\win32', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\lib\\site-packages\\win32\\lib', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\lib\\site-packages\\Pythonwin', 'C:\\Program Files\\JetBrains\\PyCharm 2018.1\\helpers\\pycharm_matplotlib_backend']】
+[INFO 2020-05-03 22:23:02]日志路径：   【D:\04_code\github\python\read_html_venv\project\data\log】
+[INFO 2020-05-03 22:23:02]main路径：   【D:\04_code\github\python\read_html_venv\project】
+[INFO 2020-05-03 22:23:02]python路径： 【C:\Users\snow\AppData\Local\pypoetry\Cache\virtualenvs\read-html-venv--Gq2blu2-py3.6\Scripts\python.exe】
+[INFO 2020-05-03 22:23:15]------------------启动项目-----------------------------
+[INFO 2020-05-03 22:23:15]平台信息：   【Windows-10-10.0.18362-SP0】
+[INFO 2020-05-03 22:23:15]当前路径：   【D:\04_code\github\python\read_html_venv\project】
+[INFO 2020-05-03 22:23:15]系统变量：   【['D:\\04_code\\github\\python\\read_html_venv\\project', 'D:\\04_code\\github\\python\\read_html_venv', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\Scripts\\python36.zip', 'C:\\Users\\snow\\AppData\\Local\\Programs\\Python\\Python36\\DLLs', 'C:\\Users\\snow\\AppData\\Local\\Programs\\Python\\Python36\\lib', 'C:\\Users\\snow\\AppData\\Local\\Programs\\Python\\Python36', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\lib\\site-packages', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\lib\\site-packages\\win32', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\lib\\site-packages\\win32\\lib', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\lib\\site-packages\\Pythonwin', 'C:\\Program Files\\JetBrains\\PyCharm 2018.1\\helpers\\pycharm_matplotlib_backend']】
+[INFO 2020-05-03 22:23:15]日志路径：   【D:\04_code\github\python\read_html_venv\project\data\log】
+[INFO 2020-05-03 22:23:15]main路径：   【D:\04_code\github\python\read_html_venv\project】
+[INFO 2020-05-03 22:23:15]python路径： 【C:\Users\snow\AppData\Local\pypoetry\Cache\virtualenvs\read-html-venv--Gq2blu2-py3.6\Scripts\python.exe】
+[INFO 2020-05-03 22:23:33]------------------启动项目-----------------------------
+[INFO 2020-05-03 22:23:33]平台信息：   【Windows-10-10.0.18362-SP0】
+[INFO 2020-05-03 22:23:33]当前路径：   【D:\04_code\github\python\read_html_venv\project】
+[INFO 2020-05-03 22:23:33]系统变量：   【['D:\\04_code\\github\\python\\read_html_venv\\project', 'D:\\04_code\\github\\python\\read_html_venv', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\Scripts\\python36.zip', 'C:\\Users\\snow\\AppData\\Local\\Programs\\Python\\Python36\\DLLs', 'C:\\Users\\snow\\AppData\\Local\\Programs\\Python\\Python36\\lib', 'C:\\Users\\snow\\AppData\\Local\\Programs\\Python\\Python36', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\lib\\site-packages', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\lib\\site-packages\\win32', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\lib\\site-packages\\win32\\lib', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\lib\\site-packages\\Pythonwin', 'C:\\Program Files\\JetBrains\\PyCharm 2018.1\\helpers\\pycharm_matplotlib_backend']】
+[INFO 2020-05-03 22:23:33]日志路径：   【D:\04_code\github\python\read_html_venv\project\data\log】
+[INFO 2020-05-03 22:23:33]main路径：   【D:\04_code\github\python\read_html_venv\project】
+[INFO 2020-05-03 22:23:33]python路径： 【C:\Users\snow\AppData\Local\pypoetry\Cache\virtualenvs\read-html-venv--Gq2blu2-py3.6\Scripts\python.exe】
+[INFO 2020-05-03 22:23:40]------------------启动项目-----------------------------
+[INFO 2020-05-03 22:23:40]平台信息：   【Windows-10-10.0.18362-SP0】
+[INFO 2020-05-03 22:23:40]当前路径：   【D:\04_code\github\python\read_html_venv\project】
+[INFO 2020-05-03 22:23:40]系统变量：   【['D:\\04_code\\github\\python\\read_html_venv\\project', 'D:\\04_code\\github\\python\\read_html_venv', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\Scripts\\python36.zip', 'C:\\Users\\snow\\AppData\\Local\\Programs\\Python\\Python36\\DLLs', 'C:\\Users\\snow\\AppData\\Local\\Programs\\Python\\Python36\\lib', 'C:\\Users\\snow\\AppData\\Local\\Programs\\Python\\Python36', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\lib\\site-packages', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\lib\\site-packages\\win32', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\lib\\site-packages\\win32\\lib', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\lib\\site-packages\\Pythonwin', 'C:\\Program Files\\JetBrains\\PyCharm 2018.1\\helpers\\pycharm_matplotlib_backend']】
+[INFO 2020-05-03 22:23:40]日志路径：   【D:\04_code\github\python\read_html_venv\project\data\log】
+[INFO 2020-05-03 22:23:40]main路径：   【D:\04_code\github\python\read_html_venv\project】
+[INFO 2020-05-03 22:23:40]python路径： 【C:\Users\snow\AppData\Local\pypoetry\Cache\virtualenvs\read-html-venv--Gq2blu2-py3.6\Scripts\python.exe】
+[INFO 2020-05-03 22:23:47]------------------启动项目-----------------------------
+[INFO 2020-05-03 22:23:47]平台信息：   【Windows-10-10.0.18362-SP0】
+[INFO 2020-05-03 22:23:47]当前路径：   【D:\04_code\github\python\read_html_venv\project】
+[INFO 2020-05-03 22:23:47]系统变量：   【['D:\\04_code\\github\\python\\read_html_venv\\project', 'D:\\04_code\\github\\python\\read_html_venv', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\Scripts\\python36.zip', 'C:\\Users\\snow\\AppData\\Local\\Programs\\Python\\Python36\\DLLs', 'C:\\Users\\snow\\AppData\\Local\\Programs\\Python\\Python36\\lib', 'C:\\Users\\snow\\AppData\\Local\\Programs\\Python\\Python36', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\lib\\site-packages', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\lib\\site-packages\\win32', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\lib\\site-packages\\win32\\lib', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\lib\\site-packages\\Pythonwin', 'C:\\Program Files\\JetBrains\\PyCharm 2018.1\\helpers\\pycharm_matplotlib_backend']】
+[INFO 2020-05-03 22:23:47]日志路径：   【D:\04_code\github\python\read_html_venv\project\data\log】
+[INFO 2020-05-03 22:23:47]main路径：   【D:\04_code\github\python\read_html_venv\project】
+[INFO 2020-05-03 22:23:47]python路径： 【C:\Users\snow\AppData\Local\pypoetry\Cache\virtualenvs\read-html-venv--Gq2blu2-py3.6\Scripts\python.exe】
+[INFO 2020-05-03 22:23:52]------------------启动项目-----------------------------
+[INFO 2020-05-03 22:23:52]平台信息：   【Windows-10-10.0.18362-SP0】
+[INFO 2020-05-03 22:23:52]当前路径：   【D:\04_code\github\python\read_html_venv\project】
+[INFO 2020-05-03 22:23:52]系统变量：   【['D:\\04_code\\github\\python\\read_html_venv\\project', 'D:\\04_code\\github\\python\\read_html_venv', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\Scripts\\python36.zip', 'C:\\Users\\snow\\AppData\\Local\\Programs\\Python\\Python36\\DLLs', 'C:\\Users\\snow\\AppData\\Local\\Programs\\Python\\Python36\\lib', 'C:\\Users\\snow\\AppData\\Local\\Programs\\Python\\Python36', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\lib\\site-packages', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\lib\\site-packages\\win32', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\lib\\site-packages\\win32\\lib', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\lib\\site-packages\\Pythonwin', 'C:\\Program Files\\JetBrains\\PyCharm 2018.1\\helpers\\pycharm_matplotlib_backend']】
+[INFO 2020-05-03 22:23:52]日志路径：   【D:\04_code\github\python\read_html_venv\project\data\log】
+[INFO 2020-05-03 22:23:52]main路径：   【D:\04_code\github\python\read_html_venv\project】
+[INFO 2020-05-03 22:23:52]python路径： 【C:\Users\snow\AppData\Local\pypoetry\Cache\virtualenvs\read-html-venv--Gq2blu2-py3.6\Scripts\python.exe】
+[INFO 2020-05-03 22:24:33]------------------启动项目-----------------------------
+[INFO 2020-05-03 22:24:33]平台信息：   【Windows-10-10.0.18362-SP0】
+[INFO 2020-05-03 22:24:33]当前路径：   【D:\04_code\github\python\read_html_venv\project】
+[INFO 2020-05-03 22:24:33]系统变量：   【['D:\\04_code\\github\\python\\read_html_venv\\project', 'D:\\04_code\\github\\python\\read_html_venv', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\Scripts\\python36.zip', 'C:\\Users\\snow\\AppData\\Local\\Programs\\Python\\Python36\\DLLs', 'C:\\Users\\snow\\AppData\\Local\\Programs\\Python\\Python36\\lib', 'C:\\Users\\snow\\AppData\\Local\\Programs\\Python\\Python36', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\lib\\site-packages', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\lib\\site-packages\\win32', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\lib\\site-packages\\win32\\lib', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\lib\\site-packages\\Pythonwin', 'C:\\Program Files\\JetBrains\\PyCharm 2018.1\\helpers\\pycharm_matplotlib_backend']】
+[INFO 2020-05-03 22:24:33]日志路径：   【D:\04_code\github\python\read_html_venv\project\data\log】
+[INFO 2020-05-03 22:24:33]main路径：   【D:\04_code\github\python\read_html_venv\project】
+[INFO 2020-05-03 22:24:33]python路径： 【C:\Users\snow\AppData\Local\pypoetry\Cache\virtualenvs\read-html-venv--Gq2blu2-py3.6\Scripts\python.exe】
+[INFO 2020-05-03 22:26:14]------------------启动项目-----------------------------
+[INFO 2020-05-03 22:26:14]平台信息：   【Windows-10-10.0.18362-SP0】
+[INFO 2020-05-03 22:26:14]当前路径：   【D:\04_code\github\python\read_html_venv\project】
+[INFO 2020-05-03 22:26:14]系统变量：   【['D:\\04_code\\github\\python\\read_html_venv\\project', 'D:\\04_code\\github\\python\\read_html_venv', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\Scripts\\python36.zip', 'C:\\Users\\snow\\AppData\\Local\\Programs\\Python\\Python36\\DLLs', 'C:\\Users\\snow\\AppData\\Local\\Programs\\Python\\Python36\\lib', 'C:\\Users\\snow\\AppData\\Local\\Programs\\Python\\Python36', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\lib\\site-packages', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\lib\\site-packages\\win32', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\lib\\site-packages\\win32\\lib', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\lib\\site-packages\\Pythonwin', 'C:\\Program Files\\JetBrains\\PyCharm 2018.1\\helpers\\pycharm_matplotlib_backend']】
+[INFO 2020-05-03 22:26:14]日志路径：   【D:\04_code\github\python\read_html_venv\project\data\log】
+[INFO 2020-05-03 22:26:14]main路径：   【D:\04_code\github\python\read_html_venv\project】
+[INFO 2020-05-03 22:26:14]python路径： 【C:\Users\snow\AppData\Local\pypoetry\Cache\virtualenvs\read-html-venv--Gq2blu2-py3.6\Scripts\python.exe】
+[ERROR 2020-05-03 22:26:14]程序奔溃啦！ 快点联系开发者！
+[ERROR 2020-05-03 22:26:14]程序奔溃啦！ 快点联系开发者！
+[INFO 2020-05-03 22:26:25]------------------启动项目-----------------------------
+[INFO 2020-05-03 22:26:25]平台信息：   【Windows-10-10.0.18362-SP0】
+[INFO 2020-05-03 22:26:25]当前路径：   【D:\04_code\github\python\read_html_venv\project】
+[INFO 2020-05-03 22:26:25]系统变量：   【['D:\\04_code\\github\\python\\read_html_venv\\project', 'D:\\04_code\\github\\python\\read_html_venv', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\Scripts\\python36.zip', 'C:\\Users\\snow\\AppData\\Local\\Programs\\Python\\Python36\\DLLs', 'C:\\Users\\snow\\AppData\\Local\\Programs\\Python\\Python36\\lib', 'C:\\Users\\snow\\AppData\\Local\\Programs\\Python\\Python36', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\lib\\site-packages', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\lib\\site-packages\\win32', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\lib\\site-packages\\win32\\lib', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\lib\\site-packages\\Pythonwin', 'C:\\Program Files\\JetBrains\\PyCharm 2018.1\\helpers\\pycharm_matplotlib_backend']】
+[INFO 2020-05-03 22:26:25]日志路径：   【D:\04_code\github\python\read_html_venv\project\data\log】
+[INFO 2020-05-03 22:26:25]main路径：   【D:\04_code\github\python\read_html_venv\project】
+[INFO 2020-05-03 22:26:25]python路径： 【C:\Users\snow\AppData\Local\pypoetry\Cache\virtualenvs\read-html-venv--Gq2blu2-py3.6\Scripts\python.exe】
+[INFO 2020-05-03 22:26:42]------------------启动项目-----------------------------
+[INFO 2020-05-03 22:26:42]平台信息：   【Windows-10-10.0.18362-SP0】
+[INFO 2020-05-03 22:26:42]当前路径：   【D:\04_code\github\python\read_html_venv\project】
+[INFO 2020-05-03 22:26:42]系统变量：   【['D:\\04_code\\github\\python\\read_html_venv\\project', 'D:\\04_code\\github\\python\\read_html_venv', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\Scripts\\python36.zip', 'C:\\Users\\snow\\AppData\\Local\\Programs\\Python\\Python36\\DLLs', 'C:\\Users\\snow\\AppData\\Local\\Programs\\Python\\Python36\\lib', 'C:\\Users\\snow\\AppData\\Local\\Programs\\Python\\Python36', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\lib\\site-packages', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\lib\\site-packages\\win32', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\lib\\site-packages\\win32\\lib', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\lib\\site-packages\\Pythonwin', 'C:\\Program Files\\JetBrains\\PyCharm 2018.1\\helpers\\pycharm_matplotlib_backend']】
+[INFO 2020-05-03 22:26:42]日志路径：   【D:\04_code\github\python\read_html_venv\project\data\log】
+[INFO 2020-05-03 22:26:42]main路径：   【D:\04_code\github\python\read_html_venv\project】
+[INFO 2020-05-03 22:26:42]python路径： 【C:\Users\snow\AppData\Local\pypoetry\Cache\virtualenvs\read-html-venv--Gq2blu2-py3.6\Scripts\python.exe】
+[INFO 2020-05-03 22:27:18]------------------启动项目-----------------------------
+[INFO 2020-05-03 22:27:18]平台信息：   【Windows-10-10.0.18362-SP0】
+[INFO 2020-05-03 22:27:18]当前路径：   【D:\04_code\github\python\read_html_venv\project】
+[INFO 2020-05-03 22:27:18]系统变量：   【['D:\\04_code\\github\\python\\read_html_venv\\project', 'D:\\04_code\\github\\python\\read_html_venv', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\Scripts\\python36.zip', 'C:\\Users\\snow\\AppData\\Local\\Programs\\Python\\Python36\\DLLs', 'C:\\Users\\snow\\AppData\\Local\\Programs\\Python\\Python36\\lib', 'C:\\Users\\snow\\AppData\\Local\\Programs\\Python\\Python36', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\lib\\site-packages', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\lib\\site-packages\\win32', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\lib\\site-packages\\win32\\lib', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\lib\\site-packages\\Pythonwin', 'C:\\Program Files\\JetBrains\\PyCharm 2018.1\\helpers\\pycharm_matplotlib_backend']】
+[INFO 2020-05-03 22:27:18]日志路径：   【D:\04_code\github\python\read_html_venv\project\data\log】
+[INFO 2020-05-03 22:27:18]main路径：   【D:\04_code\github\python\read_html_venv\project】
+[INFO 2020-05-03 22:27:18]python路径： 【C:\Users\snow\AppData\Local\pypoetry\Cache\virtualenvs\read-html-venv--Gq2blu2-py3.6\Scripts\python.exe】
+[INFO 2020-05-03 22:28:04]------------------启动项目-----------------------------
+[INFO 2020-05-03 22:28:04]平台信息：   【Windows-10-10.0.18362-SP0】
+[INFO 2020-05-03 22:28:04]当前路径：   【D:\04_code\github\python\read_html_venv\project】
+[INFO 2020-05-03 22:28:04]系统变量：   【['D:\\04_code\\github\\python\\read_html_venv\\project', 'D:\\04_code\\github\\python\\read_html_venv', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\Scripts\\python36.zip', 'C:\\Users\\snow\\AppData\\Local\\Programs\\Python\\Python36\\DLLs', 'C:\\Users\\snow\\AppData\\Local\\Programs\\Python\\Python36\\lib', 'C:\\Users\\snow\\AppData\\Local\\Programs\\Python\\Python36', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\lib\\site-packages', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\lib\\site-packages\\win32', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\lib\\site-packages\\win32\\lib', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\lib\\site-packages\\Pythonwin', 'C:\\Program Files\\JetBrains\\PyCharm 2018.1\\helpers\\pycharm_matplotlib_backend']】
+[INFO 2020-05-03 22:28:04]日志路径：   【D:\04_code\github\python\read_html_venv\project\data\log】
+[INFO 2020-05-03 22:28:04]main路径：   【D:\04_code\github\python\read_html_venv\project】
+[INFO 2020-05-03 22:28:04]python路径： 【C:\Users\snow\AppData\Local\pypoetry\Cache\virtualenvs\read-html-venv--Gq2blu2-py3.6\Scripts\python.exe】
+[INFO 2020-05-03 22:28:16]------------------启动项目-----------------------------
+[INFO 2020-05-03 22:28:16]平台信息：   【Windows-10-10.0.18362-SP0】
+[INFO 2020-05-03 22:28:16]当前路径：   【D:\04_code\github\python\read_html_venv\project】
+[INFO 2020-05-03 22:28:16]系统变量：   【['D:\\04_code\\github\\python\\read_html_venv\\project', 'D:\\04_code\\github\\python\\read_html_venv', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\Scripts\\python36.zip', 'C:\\Users\\snow\\AppData\\Local\\Programs\\Python\\Python36\\DLLs', 'C:\\Users\\snow\\AppData\\Local\\Programs\\Python\\Python36\\lib', 'C:\\Users\\snow\\AppData\\Local\\Programs\\Python\\Python36', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\lib\\site-packages', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\lib\\site-packages\\win32', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\lib\\site-packages\\win32\\lib', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\lib\\site-packages\\Pythonwin', 'C:\\Program Files\\JetBrains\\PyCharm 2018.1\\helpers\\pycharm_matplotlib_backend']】
+[INFO 2020-05-03 22:28:16]日志路径：   【D:\04_code\github\python\read_html_venv\project\data\log】
+[INFO 2020-05-03 22:28:16]main路径：   【D:\04_code\github\python\read_html_venv\project】
+[INFO 2020-05-03 22:28:16]python路径： 【C:\Users\snow\AppData\Local\pypoetry\Cache\virtualenvs\read-html-venv--Gq2blu2-py3.6\Scripts\python.exe】
+[INFO 2020-05-03 22:28:30]------------------启动项目-----------------------------
+[INFO 2020-05-03 22:28:30]平台信息：   【Windows-10-10.0.18362-SP0】
+[INFO 2020-05-03 22:28:30]当前路径：   【D:\04_code\github\python\read_html_venv\project】
+[INFO 2020-05-03 22:28:30]系统变量：   【['D:\\04_code\\github\\python\\read_html_venv\\project', 'D:\\04_code\\github\\python\\read_html_venv', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\Scripts\\python36.zip', 'C:\\Users\\snow\\AppData\\Local\\Programs\\Python\\Python36\\DLLs', 'C:\\Users\\snow\\AppData\\Local\\Programs\\Python\\Python36\\lib', 'C:\\Users\\snow\\AppData\\Local\\Programs\\Python\\Python36', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\lib\\site-packages', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\lib\\site-packages\\win32', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\lib\\site-packages\\win32\\lib', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\lib\\site-packages\\Pythonwin', 'C:\\Program Files\\JetBrains\\PyCharm 2018.1\\helpers\\pycharm_matplotlib_backend']】
+[INFO 2020-05-03 22:28:30]日志路径：   【D:\04_code\github\python\read_html_venv\project\data\log】
+[INFO 2020-05-03 22:28:30]main路径：   【D:\04_code\github\python\read_html_venv\project】
+[INFO 2020-05-03 22:28:30]python路径： 【C:\Users\snow\AppData\Local\pypoetry\Cache\virtualenvs\read-html-venv--Gq2blu2-py3.6\Scripts\python.exe】
+[INFO 2020-05-03 22:28:46]------------------启动项目-----------------------------
+[INFO 2020-05-03 22:28:46]平台信息：   【Windows-10-10.0.18362-SP0】
+[INFO 2020-05-03 22:28:46]当前路径：   【D:\04_code\github\python\read_html_venv\project】
+[INFO 2020-05-03 22:28:46]系统变量：   【['D:\\04_code\\github\\python\\read_html_venv\\project', 'D:\\04_code\\github\\python\\read_html_venv', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\Scripts\\python36.zip', 'C:\\Users\\snow\\AppData\\Local\\Programs\\Python\\Python36\\DLLs', 'C:\\Users\\snow\\AppData\\Local\\Programs\\Python\\Python36\\lib', 'C:\\Users\\snow\\AppData\\Local\\Programs\\Python\\Python36', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\lib\\site-packages', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\lib\\site-packages\\win32', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\lib\\site-packages\\win32\\lib', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\lib\\site-packages\\Pythonwin', 'C:\\Program Files\\JetBrains\\PyCharm 2018.1\\helpers\\pycharm_matplotlib_backend']】
+[INFO 2020-05-03 22:28:46]日志路径：   【D:\04_code\github\python\read_html_venv\project\data\log】
+[INFO 2020-05-03 22:28:46]main路径：   【D:\04_code\github\python\read_html_venv\project】
+[INFO 2020-05-03 22:28:46]python路径： 【C:\Users\snow\AppData\Local\pypoetry\Cache\virtualenvs\read-html-venv--Gq2blu2-py3.6\Scripts\python.exe】
+[INFO 2020-05-03 22:29:49]------------------启动项目-----------------------------
+[INFO 2020-05-03 22:29:49]平台信息：   【Windows-10-10.0.18362-SP0】
+[INFO 2020-05-03 22:29:49]当前路径：   【D:\04_code\github\python\read_html_venv\project】
+[INFO 2020-05-03 22:29:49]系统变量：   【['D:\\04_code\\github\\python\\read_html_venv\\project', 'D:\\04_code\\github\\python\\read_html_venv', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\Scripts\\python36.zip', 'C:\\Users\\snow\\AppData\\Local\\Programs\\Python\\Python36\\DLLs', 'C:\\Users\\snow\\AppData\\Local\\Programs\\Python\\Python36\\lib', 'C:\\Users\\snow\\AppData\\Local\\Programs\\Python\\Python36', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\lib\\site-packages', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\lib\\site-packages\\win32', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\lib\\site-packages\\win32\\lib', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\lib\\site-packages\\Pythonwin', 'C:\\Program Files\\JetBrains\\PyCharm 2018.1\\helpers\\pycharm_matplotlib_backend']】
+[INFO 2020-05-03 22:29:49]日志路径：   【D:\04_code\github\python\read_html_venv\project\data\log】
+[INFO 2020-05-03 22:29:49]main路径：   【D:\04_code\github\python\read_html_venv\project】
+[INFO 2020-05-03 22:29:49]python路径： 【C:\Users\snow\AppData\Local\pypoetry\Cache\virtualenvs\read-html-venv--Gq2blu2-py3.6\Scripts\python.exe】
+[INFO 2020-05-03 22:29:59]------------------启动项目-----------------------------
+[INFO 2020-05-03 22:29:59]平台信息：   【Windows-10-10.0.18362-SP0】
+[INFO 2020-05-03 22:29:59]当前路径：   【D:\04_code\github\python\read_html_venv\project】
+[INFO 2020-05-03 22:29:59]系统变量：   【['D:\\04_code\\github\\python\\read_html_venv\\project', 'D:\\04_code\\github\\python\\read_html_venv', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\Scripts\\python36.zip', 'C:\\Users\\snow\\AppData\\Local\\Programs\\Python\\Python36\\DLLs', 'C:\\Users\\snow\\AppData\\Local\\Programs\\Python\\Python36\\lib', 'C:\\Users\\snow\\AppData\\Local\\Programs\\Python\\Python36', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\lib\\site-packages', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\lib\\site-packages\\win32', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\lib\\site-packages\\win32\\lib', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\lib\\site-packages\\Pythonwin', 'C:\\Program Files\\JetBrains\\PyCharm 2018.1\\helpers\\pycharm_matplotlib_backend']】
+[INFO 2020-05-03 22:29:59]日志路径：   【D:\04_code\github\python\read_html_venv\project\data\log】
+[INFO 2020-05-03 22:29:59]main路径：   【D:\04_code\github\python\read_html_venv\project】
+[INFO 2020-05-03 22:29:59]python路径： 【C:\Users\snow\AppData\Local\pypoetry\Cache\virtualenvs\read-html-venv--Gq2blu2-py3.6\Scripts\python.exe】
+[INFO 2020-05-03 22:30:15]------------------启动项目-----------------------------
+[INFO 2020-05-03 22:30:15]平台信息：   【Windows-10-10.0.18362-SP0】
+[INFO 2020-05-03 22:30:15]当前路径：   【D:\04_code\github\python\read_html_venv\project】
+[INFO 2020-05-03 22:30:15]系统变量：   【['D:\\04_code\\github\\python\\read_html_venv\\project', 'D:\\04_code\\github\\python\\read_html_venv', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\Scripts\\python36.zip', 'C:\\Users\\snow\\AppData\\Local\\Programs\\Python\\Python36\\DLLs', 'C:\\Users\\snow\\AppData\\Local\\Programs\\Python\\Python36\\lib', 'C:\\Users\\snow\\AppData\\Local\\Programs\\Python\\Python36', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\lib\\site-packages', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\lib\\site-packages\\win32', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\lib\\site-packages\\win32\\lib', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\lib\\site-packages\\Pythonwin', 'C:\\Program Files\\JetBrains\\PyCharm 2018.1\\helpers\\pycharm_matplotlib_backend']】
+[INFO 2020-05-03 22:30:15]日志路径：   【D:\04_code\github\python\read_html_venv\project\data\log】
+[INFO 2020-05-03 22:30:15]main路径：   【D:\04_code\github\python\read_html_venv\project】
+[INFO 2020-05-03 22:30:15]python路径： 【C:\Users\snow\AppData\Local\pypoetry\Cache\virtualenvs\read-html-venv--Gq2blu2-py3.6\Scripts\python.exe】
+[INFO 2020-05-03 22:37:32]------------------启动项目-----------------------------
+[INFO 2020-05-03 22:37:32]平台信息：   【Windows-10-10.0.18362-SP0】
+[INFO 2020-05-03 22:37:32]当前路径：   【D:\04_code\github\python\read_html_venv\project】
+[INFO 2020-05-03 22:37:32]系统变量：   【['D:\\04_code\\github\\python\\read_html_venv\\project', 'D:\\04_code\\github\\python\\read_html_venv', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\Scripts\\python36.zip', 'C:\\Users\\snow\\AppData\\Local\\Programs\\Python\\Python36\\DLLs', 'C:\\Users\\snow\\AppData\\Local\\Programs\\Python\\Python36\\lib', 'C:\\Users\\snow\\AppData\\Local\\Programs\\Python\\Python36', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\lib\\site-packages', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\lib\\site-packages\\win32', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\lib\\site-packages\\win32\\lib', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\lib\\site-packages\\Pythonwin', 'C:\\Program Files\\JetBrains\\PyCharm 2018.1\\helpers\\pycharm_matplotlib_backend']】
+[INFO 2020-05-03 22:37:32]日志路径：   【D:\04_code\github\python\read_html_venv\project\data\log】
+[INFO 2020-05-03 22:37:32]main路径：   【D:\04_code\github\python\read_html_venv\project】
+[INFO 2020-05-03 22:37:32]python路径： 【C:\Users\snow\AppData\Local\pypoetry\Cache\virtualenvs\read-html-venv--Gq2blu2-py3.6\Scripts\python.exe】
+[INFO 2020-05-03 22:37:37]开始处理1份报告
+[INFO 2020-05-03 22:37:37]处理第1份报告
+[INFO 2020-05-03 22:37:37]开始生成报告
+[INFO 2020-05-03 22:37:37]点击鼠标【510.8】【81.0】
+[INFO 2020-05-03 22:37:39]获取地址
+[INFO 2020-05-03 22:37:39]当前应用名【TMessageForm】
+[INFO 2020-05-03 22:37:41]当前应用名【TMessageForm】
+[INFO 2020-05-03 22:37:42]当前应用名【Chrome_WidgetWin_1】
+[INFO 2020-05-03 22:37:42]找到了浏览器！
+[INFO 2020-05-03 22:37:42]点击鼠标【640.5】【340.5】
+[INFO 2020-05-03 22:37:42]剪切板内容【】
+[INFO 2020-05-03 22:37:43]剪切板内容【file:///C:/Users/snow/AppData/Local/Temp/Example.htm】
+[INFO 2020-05-03 22:37:43]找到了网址file:///C:/Users/snow/AppData/Local/Temp/Example.htm
+[INFO 2020-05-03 22:37:43]---------
+
+[INFO 2020-05-03 22:37:43]URL:file:///C:/Users/snow/AppData/Local/Temp/Example.htm
+
+[INFO 2020-05-03 22:37:43]解析参数
+[INFO 2020-05-03 22:37:43]路径为：C:/Users/snow/AppData/Local/Temp/Example.htm
+[INFO 2020-05-03 22:37:43]解析结果:
+
+[INFO 2020-05-03 22:37:43]1	2.537517	320.745724	276.10	262.00	247.00	232.70	195.00	133.60	97.23	74.89	60.33	23.52
+
+[INFO 2020-05-03 22:50:10]------------------启动项目-----------------------------
+[INFO 2020-05-03 22:50:10]平台信息：   【Windows-10-10.0.18362-SP0】
+[INFO 2020-05-03 22:50:10]当前路径：   【D:\04_code\github\python\read_html_venv\project】
+[INFO 2020-05-03 22:50:10]系统变量：   【['D:\\04_code\\github\\python\\read_html_venv\\project', 'D:\\04_code\\github\\python\\read_html_venv', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\Scripts\\python36.zip', 'C:\\Users\\snow\\AppData\\Local\\Programs\\Python\\Python36\\DLLs', 'C:\\Users\\snow\\AppData\\Local\\Programs\\Python\\Python36\\lib', 'C:\\Users\\snow\\AppData\\Local\\Programs\\Python\\Python36', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\lib\\site-packages', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\lib\\site-packages\\win32', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\lib\\site-packages\\win32\\lib', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\lib\\site-packages\\Pythonwin', 'C:\\Program Files\\JetBrains\\PyCharm 2018.1\\helpers\\pycharm_matplotlib_backend']】
+[INFO 2020-05-03 22:50:10]日志路径：   【D:\04_code\github\python\read_html_venv\project\data\log】
+[INFO 2020-05-03 22:50:10]main路径：   【D:\04_code\github\python\read_html_venv\project】
+[INFO 2020-05-03 22:50:10]python路径： 【C:\Users\snow\AppData\Local\pypoetry\Cache\virtualenvs\read-html-venv--Gq2blu2-py3.6\Scripts\python.exe】
+[INFO 2020-05-03 22:50:15]开始处理1份报告
+[INFO 2020-05-03 22:50:15]开始处理第1份报告
+[INFO 2020-05-03 22:50:15]开始生成报告
+[INFO 2020-05-03 22:50:15]点击鼠标【510.8】【81.0】
+[INFO 2020-05-03 22:50:17]获取地址
+[INFO 2020-05-03 22:50:17]当前应用名【TMessageForm】
+[INFO 2020-05-03 22:50:18]当前应用名【TMessageForm】
+[INFO 2020-05-03 22:50:19]当前应用名【Chrome_WidgetWin_1】
+[INFO 2020-05-03 22:50:19]找到了浏览器！
+[INFO 2020-05-03 22:50:19]点击鼠标【640.5】【340.5】
+[INFO 2020-05-03 22:50:20]剪切板内容【】
+[INFO 2020-05-03 22:50:21]剪切板内容【file:///C:/Users/snow/AppData/Local/Temp/Example.htm】
+[INFO 2020-05-03 22:50:21]找到了网址file:///C:/Users/snow/AppData/Local/Temp/Example.htm
+[INFO 2020-05-03 22:50:21]---------
+
+[INFO 2020-05-03 22:50:21]URL:file:///C:/Users/snow/AppData/Local/Temp/Example.htm
+
+[INFO 2020-05-03 22:50:21]解析参数
+[INFO 2020-05-03 22:50:21]路径为：C:/Users/snow/AppData/Local/Temp/Example.htm
+[INFO 2020-05-03 22:50:21]解析结果:
+
+[INFO 2020-05-03 22:50:21]1	2.537517	320.745724	276.10	262.00	247.00	232.70	195.00	133.60	97.23	74.89	60.33	23.52
+
+[INFO 2020-05-03 22:50:22]结束处理第1份报告
+[INFO 2020-05-03 22:50:22]处理报告完毕
+[INFO 2020-05-03 22:50:41]保存结果集
+[INFO 2020-05-03 22:50:51]保存路径为C:/Users/snow/Desktop
+[INFO 2020-05-03 22:53:46]------------------启动项目-----------------------------
+[INFO 2020-05-03 22:53:46]平台信息：   【Windows-10-10.0.18362-SP0】
+[INFO 2020-05-03 22:53:46]当前路径：   【D:\04_code\github\python\read_html_venv\project】
+[INFO 2020-05-03 22:53:46]系统变量：   【['D:\\04_code\\github\\python\\read_html_venv\\project', 'D:\\04_code\\github\\python\\read_html_venv', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\Scripts\\python36.zip', 'C:\\Users\\snow\\AppData\\Local\\Programs\\Python\\Python36\\DLLs', 'C:\\Users\\snow\\AppData\\Local\\Programs\\Python\\Python36\\lib', 'C:\\Users\\snow\\AppData\\Local\\Programs\\Python\\Python36', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\lib\\site-packages', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\lib\\site-packages\\win32', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\lib\\site-packages\\win32\\lib', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\lib\\site-packages\\Pythonwin', 'C:\\Program Files\\JetBrains\\PyCharm 2018.1\\helpers\\pycharm_matplotlib_backend']】
+[INFO 2020-05-03 22:53:46]日志路径：   【D:\04_code\github\python\read_html_venv\project\data\log】
+[INFO 2020-05-03 22:53:46]main路径：   【D:\04_code\github\python\read_html_venv\project】
+[INFO 2020-05-03 22:53:46]python路径： 【C:\Users\snow\AppData\Local\pypoetry\Cache\virtualenvs\read-html-venv--Gq2blu2-py3.6\Scripts\python.exe】
+[INFO 2020-05-03 22:53:49]开始处理1份报告
+[INFO 2020-05-03 22:53:49]开始处理第1份报告
+[INFO 2020-05-03 22:53:49]开始生成报告
+[ERROR 2020-05-03 22:53:50]Traceback (most recent call last):
+  File "D:\04_code\github\python\read_html_venv\project\plugs\decorator.py", line 27, in wrapper
+    _ret = func(*args, **kwargs)
+  File "D:/04_code/github/python/read_html_venv/project/main.py", line 169, in _start_btn_back
+    self._handle()
+  File "D:/04_code/github/python/read_html_venv/project/main.py", line 186, in _handle
+    assessmentUI.set_fore()
+  File "D:\04_code\github\python\read_html_venv\project\toprice\assessment_UI.py", line 36, in set_fore
+    win32gui.SetForegroundWindow(self.hwnd)
+pywintypes.error: (1400, 'SetForegroundWindow', '无效的窗口句柄。')
+
+[INFO 2020-05-03 22:53:50]函数异常：【<function MainUI._start_btn_back at 0x0000021083B52E18>】, args:【(<__main__.MainUI object at 0x0000021083B16048>,)】， kwargs:【{}】
+[INFO 2020-05-03 22:54:00]------------------启动项目-----------------------------
+[INFO 2020-05-03 22:54:00]平台信息：   【Windows-10-10.0.18362-SP0】
+[INFO 2020-05-03 22:54:00]当前路径：   【D:\04_code\github\python\read_html_venv\project】
+[INFO 2020-05-03 22:54:00]系统变量：   【['D:\\04_code\\github\\python\\read_html_venv\\project', 'D:\\04_code\\github\\python\\read_html_venv', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\Scripts\\python36.zip', 'C:\\Users\\snow\\AppData\\Local\\Programs\\Python\\Python36\\DLLs', 'C:\\Users\\snow\\AppData\\Local\\Programs\\Python\\Python36\\lib', 'C:\\Users\\snow\\AppData\\Local\\Programs\\Python\\Python36', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\lib\\site-packages', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\lib\\site-packages\\win32', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\lib\\site-packages\\win32\\lib', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\lib\\site-packages\\Pythonwin', 'C:\\Program Files\\JetBrains\\PyCharm 2018.1\\helpers\\pycharm_matplotlib_backend']】
+[INFO 2020-05-03 22:54:00]日志路径：   【D:\04_code\github\python\read_html_venv\project\data\log】
+[INFO 2020-05-03 22:54:00]main路径：   【D:\04_code\github\python\read_html_venv\project】
+[INFO 2020-05-03 22:54:00]python路径： 【C:\Users\snow\AppData\Local\pypoetry\Cache\virtualenvs\read-html-venv--Gq2blu2-py3.6\Scripts\python.exe】
+[INFO 2020-05-03 22:54:05]开始处理1份报告
+[INFO 2020-05-03 22:54:05]开始处理第1份报告
+[INFO 2020-05-03 22:54:05]开始生成报告
+[INFO 2020-05-03 22:54:05]点击鼠标【510.8】【81.0】
+[INFO 2020-05-03 22:54:07]获取地址
+[INFO 2020-05-03 22:54:07]当前应用名【TMessageForm】
+[INFO 2020-05-03 22:54:08]当前应用名【TMessageForm】
+[INFO 2020-05-03 22:54:09]当前应用名【Chrome_WidgetWin_1】
+[INFO 2020-05-03 22:54:09]找到了浏览器！
+[INFO 2020-05-03 22:54:09]点击鼠标【640.5】【340.5】
+[INFO 2020-05-03 22:54:10]剪切板内容【】
+[INFO 2020-05-03 22:54:10]剪切板内容【file:///C:/Users/snow/AppData/Local/Temp/Example.htm】
+[INFO 2020-05-03 22:54:10]找到了网址file:///C:/Users/snow/AppData/Local/Temp/Example.htm
+[INFO 2020-05-03 22:54:10]---------
+
+[INFO 2020-05-03 22:54:10]URL:file:///C:/Users/snow/AppData/Local/Temp/Example.htm
+
+[INFO 2020-05-03 22:54:10]解析参数
+[INFO 2020-05-03 22:54:10]路径为：C:/Users/snow/AppData/Local/Temp/Example.htm
+[INFO 2020-05-03 22:54:10]解析结果:
+
+[INFO 2020-05-03 22:54:10]1	2.537517	320.745724	276.10	262.00	247.00	232.70	195.00	133.60	97.23	74.89	60.33	23.52
+
+[INFO 2020-05-03 22:54:11]结束处理第1份报告
+[INFO 2020-05-03 22:54:11]处理报告完毕
+[INFO 2020-05-03 22:54:22]保存结果集
+[INFO 2020-05-03 22:54:30]保存路径为C:/Users/snow/Desktop/1
+[INFO 2020-05-03 22:54:30]保存成功
+[INFO 2020-05-03 22:57:50]------------------启动项目-----------------------------
+[INFO 2020-05-03 22:57:50]平台信息：   【Windows-10-10.0.18362-SP0】
+[INFO 2020-05-03 22:57:50]当前路径：   【D:\04_code\github\python\read_html_venv\project】
+[INFO 2020-05-03 22:57:50]系统变量：   【['D:\\04_code\\github\\python\\read_html_venv\\project', 'D:\\04_code\\github\\python\\read_html_venv', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\Scripts\\python36.zip', 'C:\\Users\\snow\\AppData\\Local\\Programs\\Python\\Python36\\DLLs', 'C:\\Users\\snow\\AppData\\Local\\Programs\\Python\\Python36\\lib', 'C:\\Users\\snow\\AppData\\Local\\Programs\\Python\\Python36', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\lib\\site-packages', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\lib\\site-packages\\win32', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\lib\\site-packages\\win32\\lib', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\lib\\site-packages\\Pythonwin', 'C:\\Program Files\\JetBrains\\PyCharm 2018.1\\helpers\\pycharm_matplotlib_backend']】
+[INFO 2020-05-03 22:57:50]日志路径：   【D:\04_code\github\python\read_html_venv\project\data\log】
+[INFO 2020-05-03 22:57:50]main路径：   【D:\04_code\github\python\read_html_venv\project】
+[INFO 2020-05-03 22:57:50]python路径： 【C:\Users\snow\AppData\Local\pypoetry\Cache\virtualenvs\read-html-venv--Gq2blu2-py3.6\Scripts\python.exe】
+[INFO 2020-05-03 22:58:13]------------------启动项目-----------------------------
+[INFO 2020-05-03 22:58:13]平台信息：   【Windows-10-10.0.18362-SP0】
+[INFO 2020-05-03 22:58:13]当前路径：   【D:\04_code\github\python\read_html_venv\project】
+[INFO 2020-05-03 22:58:13]系统变量：   【['D:\\04_code\\github\\python\\read_html_venv\\project', 'D:\\04_code\\github\\python\\read_html_venv', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\Scripts\\python36.zip', 'C:\\Users\\snow\\AppData\\Local\\Programs\\Python\\Python36\\DLLs', 'C:\\Users\\snow\\AppData\\Local\\Programs\\Python\\Python36\\lib', 'C:\\Users\\snow\\AppData\\Local\\Programs\\Python\\Python36', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\lib\\site-packages', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\lib\\site-packages\\win32', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\lib\\site-packages\\win32\\lib', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\lib\\site-packages\\Pythonwin', 'C:\\Program Files\\JetBrains\\PyCharm 2018.1\\helpers\\pycharm_matplotlib_backend']】
+[INFO 2020-05-03 22:58:13]日志路径：   【D:\04_code\github\python\read_html_venv\project\data\log】
+[INFO 2020-05-03 22:58:13]main路径：   【D:\04_code\github\python\read_html_venv\project】
+[INFO 2020-05-03 22:58:13]python路径： 【C:\Users\snow\AppData\Local\pypoetry\Cache\virtualenvs\read-html-venv--Gq2blu2-py3.6\Scripts\python.exe】
+[INFO 2020-05-03 22:58:23]开始处理1份报告
+[INFO 2020-05-03 22:58:23]开始处理第1份报告
+[INFO 2020-05-03 22:58:23]开始生成报告
+[INFO 2020-05-03 22:58:23]点击鼠标【510.8】【81.0】
+[INFO 2020-05-03 22:58:25]获取地址
+[INFO 2020-05-03 22:58:25]当前应用名【TMessageForm】
+[INFO 2020-05-03 22:58:26]当前应用名【TMessageForm】
+[INFO 2020-05-03 22:58:27]当前应用名【Chrome_WidgetWin_1】
+[INFO 2020-05-03 22:58:27]找到了浏览器！
+[INFO 2020-05-03 22:58:27]点击鼠标【640.5】【340.5】
+[INFO 2020-05-03 22:58:28]剪切板内容【】
+[INFO 2020-05-03 22:58:29]剪切板内容【file:///C:/Users/snow/AppData/Local/Temp/Example.htm】
+[INFO 2020-05-03 22:58:29]找到了网址file:///C:/Users/snow/AppData/Local/Temp/Example.htm
+[INFO 2020-05-03 22:58:29]---------
+
+[INFO 2020-05-03 22:58:29]URL:file:///C:/Users/snow/AppData/Local/Temp/Example.htm
+
+[INFO 2020-05-03 22:58:29]解析参数
+[INFO 2020-05-03 22:58:29]路径为：C:/Users/snow/AppData/Local/Temp/Example.htm
+[INFO 2020-05-03 22:58:29]解析结果:
+
+[INFO 2020-05-03 22:58:29]1	2.537517	320.745724	276.10	262.00	247.00	232.70	195.00	133.60	97.23	74.89	60.33	23.52
+
+[INFO 2020-05-03 22:58:29]结束处理第1份报告
+[INFO 2020-05-03 22:58:29]处理报告完毕
+[INFO 2020-05-03 22:59:35]------------------启动项目-----------------------------
+[INFO 2020-05-03 22:59:35]平台信息：   【Windows-10-10.0.18362-SP0】
+[INFO 2020-05-03 22:59:35]当前路径：   【D:\04_code\github\python\read_html_venv\project】
+[INFO 2020-05-03 22:59:35]系统变量：   【['D:\\04_code\\github\\python\\read_html_venv\\project', 'D:\\04_code\\github\\python\\read_html_venv', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\Scripts\\python36.zip', 'C:\\Users\\snow\\AppData\\Local\\Programs\\Python\\Python36\\DLLs', 'C:\\Users\\snow\\AppData\\Local\\Programs\\Python\\Python36\\lib', 'C:\\Users\\snow\\AppData\\Local\\Programs\\Python\\Python36', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\lib\\site-packages', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\lib\\site-packages\\win32', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\lib\\site-packages\\win32\\lib', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\lib\\site-packages\\Pythonwin', 'C:\\Program Files\\JetBrains\\PyCharm 2018.1\\helpers\\pycharm_matplotlib_backend']】
+[INFO 2020-05-03 22:59:35]日志路径：   【D:\04_code\github\python\read_html_venv\project\data\log】
+[INFO 2020-05-03 22:59:35]main路径：   【D:\04_code\github\python\read_html_venv\project】
+[INFO 2020-05-03 22:59:35]python路径： 【C:\Users\snow\AppData\Local\pypoetry\Cache\virtualenvs\read-html-venv--Gq2blu2-py3.6\Scripts\python.exe】
+[INFO 2020-05-03 22:59:40]开始处理1份报告
+[INFO 2020-05-03 22:59:40]开始处理第1份报告
+[INFO 2020-05-03 22:59:40]开始生成报告
+[INFO 2020-05-03 22:59:40]点击鼠标【510.8】【81.0】
+[INFO 2020-05-03 22:59:42]获取地址
+[INFO 2020-05-03 22:59:42]当前应用名【TMessageForm】
+[INFO 2020-05-03 22:59:43]当前应用名【TMessageForm】
+[INFO 2020-05-03 22:59:44]当前应用名【Chrome_WidgetWin_1】
+[INFO 2020-05-03 22:59:44]找到了浏览器！
+[INFO 2020-05-03 22:59:44]点击鼠标【640.5】【340.5】
+[INFO 2020-05-03 22:59:45]剪切板内容【】
+[INFO 2020-05-03 22:59:46]剪切板内容【file:///C:/Users/snow/AppData/Local/Temp/Example.htm】
+[INFO 2020-05-03 22:59:46]找到了网址file:///C:/Users/snow/AppData/Local/Temp/Example.htm
+[INFO 2020-05-03 22:59:46]---------
+
+[INFO 2020-05-03 22:59:46]URL:file:///C:/Users/snow/AppData/Local/Temp/Example.htm
+
+[INFO 2020-05-03 22:59:46]解析参数
+[INFO 2020-05-03 22:59:46]路径为：C:/Users/snow/AppData/Local/Temp/Example.htm
+[INFO 2020-05-03 22:59:46]解析结果:
+
+[INFO 2020-05-03 22:59:46]1	2.537517	320.745724	276.10	262.00	247.00	232.70	195.00	133.60	97.23	74.89	60.33	23.52
+
+[INFO 2020-05-03 22:59:46]结束处理第1份报告
+[INFO 2020-05-03 22:59:46]处理报告完毕
+[INFO 2020-05-03 23:01:22]------------------启动项目-----------------------------
+[INFO 2020-05-03 23:01:22]平台信息：   【Windows-10-10.0.18362-SP0】
+[INFO 2020-05-03 23:01:22]当前路径：   【D:\04_code\github\python\read_html_venv\project】
+[INFO 2020-05-03 23:01:22]系统变量：   【['D:\\04_code\\github\\python\\read_html_venv\\project', 'D:\\04_code\\github\\python\\read_html_venv', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\Scripts\\python36.zip', 'C:\\Users\\snow\\AppData\\Local\\Programs\\Python\\Python36\\DLLs', 'C:\\Users\\snow\\AppData\\Local\\Programs\\Python\\Python36\\lib', 'C:\\Users\\snow\\AppData\\Local\\Programs\\Python\\Python36', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\lib\\site-packages', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\lib\\site-packages\\win32', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\lib\\site-packages\\win32\\lib', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\lib\\site-packages\\Pythonwin', 'C:\\Program Files\\JetBrains\\PyCharm 2018.1\\helpers\\pycharm_matplotlib_backend']】
+[INFO 2020-05-03 23:01:22]日志路径：   【D:\04_code\github\python\read_html_venv\project\data\log】
+[INFO 2020-05-03 23:01:22]main路径：   【D:\04_code\github\python\read_html_venv\project】
+[INFO 2020-05-03 23:01:22]python路径： 【C:\Users\snow\AppData\Local\pypoetry\Cache\virtualenvs\read-html-venv--Gq2blu2-py3.6\Scripts\python.exe】
+[INFO 2020-05-03 23:01:25]开始处理1份报告
+[INFO 2020-05-03 23:01:25]开始处理第1份报告
+[INFO 2020-05-03 23:01:25]开始生成报告
+[INFO 2020-05-03 23:01:25]点击鼠标【510.8】【81.0】
+[INFO 2020-05-03 23:01:27]获取地址
+[INFO 2020-05-03 23:01:27]当前应用名【TMessageForm】
+[INFO 2020-05-03 23:01:28]当前应用名【TMessageForm】
+[INFO 2020-05-03 23:01:29]当前应用名【Chrome_WidgetWin_1】
+[INFO 2020-05-03 23:01:29]找到了浏览器！
+[INFO 2020-05-03 23:01:29]点击鼠标【640.5】【340.5】
+[INFO 2020-05-03 23:01:30]剪切板内容【】
+[INFO 2020-05-03 23:01:31]剪切板内容【file:///C:/Users/snow/AppData/Local/Temp/Example.htm】
+[INFO 2020-05-03 23:01:31]找到了网址file:///C:/Users/snow/AppData/Local/Temp/Example.htm
+[INFO 2020-05-03 23:01:31]---------
+
+[INFO 2020-05-03 23:01:31]URL:file:///C:/Users/snow/AppData/Local/Temp/Example.htm
+
+[INFO 2020-05-03 23:01:31]解析参数
+[INFO 2020-05-03 23:01:31]路径为：C:/Users/snow/AppData/Local/Temp/Example.htm
+[INFO 2020-05-03 23:01:31]解析结果:
+
+[INFO 2020-05-03 23:01:31]1	2.537517	320.745724	276.10	262.00	247.00	232.70	195.00	133.60	97.23	74.89	60.33	23.52
+
+[INFO 2020-05-03 23:01:32]结束处理第1份报告
+[INFO 2020-05-03 23:01:32]处理报告完毕
+[INFO 2020-05-03 23:01:40]清空结果
+[INFO 2020-05-03 23:01:55]------------------启动项目-----------------------------
+[INFO 2020-05-03 23:01:55]平台信息：   【Windows-10-10.0.18362-SP0】
+[INFO 2020-05-03 23:01:55]当前路径：   【D:\04_code\github\python\read_html_venv\project】
+[INFO 2020-05-03 23:01:55]系统变量：   【['D:\\04_code\\github\\python\\read_html_venv\\project', 'D:\\04_code\\github\\python\\read_html_venv', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\Scripts\\python36.zip', 'C:\\Users\\snow\\AppData\\Local\\Programs\\Python\\Python36\\DLLs', 'C:\\Users\\snow\\AppData\\Local\\Programs\\Python\\Python36\\lib', 'C:\\Users\\snow\\AppData\\Local\\Programs\\Python\\Python36', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\lib\\site-packages', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\lib\\site-packages\\win32', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\lib\\site-packages\\win32\\lib', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\lib\\site-packages\\Pythonwin', 'C:\\Program Files\\JetBrains\\PyCharm 2018.1\\helpers\\pycharm_matplotlib_backend']】
+[INFO 2020-05-03 23:01:55]日志路径：   【D:\04_code\github\python\read_html_venv\project\data\log】
+[INFO 2020-05-03 23:01:55]main路径：   【D:\04_code\github\python\read_html_venv\project】
+[INFO 2020-05-03 23:01:55]python路径： 【C:\Users\snow\AppData\Local\pypoetry\Cache\virtualenvs\read-html-venv--Gq2blu2-py3.6\Scripts\python.exe】
+[INFO 2020-05-03 23:01:59]开始处理1份报告
+[INFO 2020-05-03 23:01:59]开始处理第1份报告
+[INFO 2020-05-03 23:01:59]开始生成报告
+[INFO 2020-05-03 23:01:59]点击鼠标【510.8】【81.0】
+[INFO 2020-05-03 23:02:01]获取地址
+[INFO 2020-05-03 23:02:01]当前应用名【TMessageForm】
+[INFO 2020-05-03 23:02:02]当前应用名【TMessageForm】
+[INFO 2020-05-03 23:02:03]当前应用名【Chrome_WidgetWin_1】
+[INFO 2020-05-03 23:02:03]找到了浏览器！
+[INFO 2020-05-03 23:02:03]点击鼠标【640.5】【340.5】
+[INFO 2020-05-03 23:02:04]剪切板内容【】
+[INFO 2020-05-03 23:02:05]剪切板内容【file:///C:/Users/snow/AppData/Local/Temp/Example.htm】
+[INFO 2020-05-03 23:02:05]找到了网址file:///C:/Users/snow/AppData/Local/Temp/Example.htm
+[INFO 2020-05-03 23:02:05]---------
+
+[INFO 2020-05-03 23:02:05]URL:file:///C:/Users/snow/AppData/Local/Temp/Example.htm
+
+[INFO 2020-05-03 23:02:05]解析参数
+[INFO 2020-05-03 23:02:05]路径为：C:/Users/snow/AppData/Local/Temp/Example.htm
+[INFO 2020-05-03 23:02:05]解析结果:
+
+[INFO 2020-05-03 23:02:05]1	2.537517	320.745724	276.10	262.00	247.00	232.70	195.00	133.60	97.23	74.89	60.33	23.52
+
+[INFO 2020-05-03 23:02:05]结束处理第1份报告
+[INFO 2020-05-03 23:02:05]处理报告完毕
+[INFO 2020-05-03 23:02:09]清空结果
+[INFO 2020-05-03 23:02:12]开始处理1份报告
+[INFO 2020-05-03 23:02:12]开始处理第1份报告
+[INFO 2020-05-03 23:02:12]开始生成报告
+[INFO 2020-05-03 23:02:12]点击鼠标【510.8】【81.0】
+[INFO 2020-05-03 23:02:14]获取地址
+[INFO 2020-05-03 23:02:14]当前应用名【TMessageForm】
+[INFO 2020-05-03 23:02:15]当前应用名【TMessageForm】
+[INFO 2020-05-03 23:02:16]当前应用名【Chrome_WidgetWin_1】
+[INFO 2020-05-03 23:02:16]找到了浏览器！
+[INFO 2020-05-03 23:02:16]点击鼠标【640.5】【340.5】
+[INFO 2020-05-03 23:02:17]剪切板内容【】
+[INFO 2020-05-03 23:02:18]剪切板内容【file:///C:/Users/snow/AppData/Local/Temp/Example.htm】
+[INFO 2020-05-03 23:02:18]找到了网址file:///C:/Users/snow/AppData/Local/Temp/Example.htm
+[INFO 2020-05-03 23:02:18]---------
+
+[INFO 2020-05-03 23:02:18]URL:file:///C:/Users/snow/AppData/Local/Temp/Example.htm
+
+[INFO 2020-05-03 23:02:18]解析参数
+[INFO 2020-05-03 23:02:18]路径为：C:/Users/snow/AppData/Local/Temp/Example.htm
+[INFO 2020-05-03 23:02:18]解析结果:
+
+[INFO 2020-05-03 23:02:18]1	2.537517	320.745724	276.10	262.00	247.00	232.70	195.00	133.60	97.23	74.89	60.33	23.52
+
+[INFO 2020-05-03 23:02:18]结束处理第1份报告
+[INFO 2020-05-03 23:02:18]处理报告完毕
+[INFO 2020-05-03 23:02:25]保存结果集
+[INFO 2020-05-03 23:02:34]保存路径为C:/Users/snow/Desktop/1
+[INFO 2020-05-03 23:02:34]保存成功
+[INFO 2020-05-03 23:04:39]------------------启动项目-----------------------------
+[INFO 2020-05-03 23:04:39]平台信息：   【Windows-10-10.0.18362-SP0】
+[INFO 2020-05-03 23:04:39]当前路径：   【D:\04_code\github\python\read_html_venv\project】
+[INFO 2020-05-03 23:04:39]系统变量：   【['D:\\04_code\\github\\python\\read_html_venv\\project', 'D:\\04_code\\github\\python\\read_html_venv', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\Scripts\\python36.zip', 'C:\\Users\\snow\\AppData\\Local\\Programs\\Python\\Python36\\DLLs', 'C:\\Users\\snow\\AppData\\Local\\Programs\\Python\\Python36\\lib', 'C:\\Users\\snow\\AppData\\Local\\Programs\\Python\\Python36', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\lib\\site-packages', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\lib\\site-packages\\win32', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\lib\\site-packages\\win32\\lib', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\lib\\site-packages\\Pythonwin', 'C:\\Program Files\\JetBrains\\PyCharm 2018.1\\helpers\\pycharm_matplotlib_backend']】
+[INFO 2020-05-03 23:04:39]日志路径：   【D:\04_code\github\python\read_html_venv\project\data\log】
+[INFO 2020-05-03 23:04:39]main路径：   【D:\04_code\github\python\read_html_venv\project】
+[INFO 2020-05-03 23:04:39]python路径： 【C:\Users\snow\AppData\Local\pypoetry\Cache\virtualenvs\read-html-venv--Gq2blu2-py3.6\Scripts\python.exe】
+[INFO 2020-05-03 23:04:42]开始处理1份报告
+[INFO 2020-05-03 23:04:42]开始处理第1份报告
+[INFO 2020-05-03 23:04:42]开始生成报告
+[INFO 2020-05-03 23:04:42]点击鼠标【510.8】【81.0】
+[INFO 2020-05-03 23:04:44]获取地址
+[INFO 2020-05-03 23:04:44]当前应用名【SunAwtFrame】
+[INFO 2020-05-03 23:04:45]当前应用名【SunAwtFrame】
+[INFO 2020-05-03 23:04:46]当前应用名【SunAwtFrame】
+[INFO 2020-05-03 23:04:47]点击鼠标【640.5】【340.5】
+[INFO 2020-05-03 23:04:48]剪切板内容【pfname】
+[INFO 2020-05-03 23:04:48]剪切板内容【#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+"""
+@Comment    : 
+@Time       : 2019/2/25 9:01
+@Author     : libaojie
+@File       : excel_tool.py
+@Software   : PyCharm
+"""
+import os
+import shutil
+import traceback
+
+import xlrd
+import xlwt
+from xlutils.copy import copy
+
+from project.plugs.log_tool import LogTool
+
+
+class ExcelTool(object):
+
+    @staticmethod
+    def get_all_excel_files(path):
+        '''
+        获取指定目录下所有的Excel文件
+        Params:
+            ppath: String 存放Excel的根目录
+        Return:
+            指定目录下所有的Excel文件
+        '''
+
+        _files = []  # 存放返回的文件列表
+        _dir_cnt = 0  # 记录包含文件的文件夹数量
+
+        # 遍历所有文件夹，获取相应的信息
+        for _dirpath, _dirnames, _filenames in os.walk(path):
+            # 遍历文件夹中的文件
+            _dir_cnt += 1
+            for _filename in _filenames:
+                # 将所有的Excel文件（剔除了临时文件）加载到文件列表中
+                if (os.path.splitext(_filename)[1] in ['.xlsx', '.xls']
+                ) and (not _filename.startswith('~')):
+                    _files.append(os.path.join(_dirpath, _filename))
+        # print('包含Excel文件的目录共【{}】个'.format(_dir_cnt))
+
+        if len(_files) < 1:
+            # 文件夹内无Excel文件
+            LogTool.error("文件夹内无Excel：{0}".format(path))
+
+        return _files
+
+    @staticmethod
+    def get_excel_file(path):
+        '''
+        获取Excel文件
+        Params:
+            path: String Excel路径
+        Return:
+            Excel文件
+        '''
+        try:
+            _excel = xlrd.open_workbook(path)
+            if not _excel:
+                LogTool.error('无此Excel！！！{0}'.format(path))
+            return _excel
+        except Exception as err:
+            LogTool.error(traceback.format_exc())
+            LogTool.print(f'Excel文件无法读取')
+            return None
+
+    @staticmethod
+        def save_to_excel(pheader, pvals, pfname, header_style=None, val_style=None, psname='Sheet1'):
+        '''
+        保存数据至Excel
+        :param pheader: List 标题
+        :param pvals: List 内容
+        :param pfname: String 路径
+        :param header_style: 标题格式
+        :param val_style:  内容格式
+        :param psname: sheet名称
+        :return:
+        '''
+        if not os.path.isdir(os.path.dirname(pfname)):
+            os.makedirs(os.path.dirname(pfname))
+
+        _workbook = xlwt.Workbook(encoding='utf8')  # 创建工作簿对象
+        _xlssheet = _workbook.add_sheet(psname)
+
+        # 填充标题
+        for _i, _v in enumerate(pheader):
+            if header_style is None:
+                _xlssheet.write(0, _i, _v)
+            else:
+                _xlssheet.write(0, _i, _v, header_style)
+
+        # 填充内容
+        for _r, _rv in enumerate(pvals):
+            for _c, cv in enumerate(_rv):
+                cv = str(cv)
+                # 一个单元格最长为32766
+                if len(cv) > 32766:
+                    LogTool.error('写入Excel字段超长！长度{0}'.format(len(cv)))
+                    cv = cv[:32766]
+
+                if val_style is None:
+                    _xlssheet.write(_r + 1, _c, cv)
+                else:
+                    _xlssheet.write(_r + 1, _c, cv, val_style)
+
+        # 保存excel文件
+        _workbook.save(pfname)
+
+    @staticmethod
+    def copy_templet(input_path, output_path):
+        """
+        复制一下模板
+        :param input_path:
+        :param output_path:
+        :return:
+        """
+        shutil.copy(input_path, output_path)
+        return output_path
+
+    @staticmethod
+    def templet_excel(pvals, pfname, psindex, ptitle_rnt=0, ptitle_cnt=0, is_by_row=True, val_style=None,
+                      is_auto_col=False, is_new_sheet=False):
+        """
+        按模板输出Excel
+        :param pvals: 数据
+        :param pfname: 模板路径
+        :param psindex: sheet序号
+        :param ptitle_rnt: 标题行数
+        :param ptitle_cnt: 标题列数
+        :param is_by_row: 是否按行写入
+        :param is_auto_col：
+        :param is_new_sheet: 是否是新添的sheet
+        :return:
+        """
+        _workbook = xlrd.open_workbook(pfname, formatting_info=True)
+        _wb = copy(_workbook)
+        if is_new_sheet:
+            _sheet = _wb.add_sheet(psindex)
+        else:
+            _sheet = _wb.get_sheet(psindex)
+
+        max_length_dict = {}
+        for _r, _rv in enumerate(pvals):
+            for _c, cv in enumerate(_rv):
+                # 写入内容
+                if is_by_row:
+                    # 按行写入
+                    _r_result = _r + ptitle_rnt
+                    _c_result = _c + ptitle_cnt
+                else:
+                    # 按列写入
+                    _r_result = _c + ptitle_rnt
+                    _c_result = _r + ptitle_cnt
+
+                # 一个sheet 最多可以写65535*255个单元格
+                if _r_result > 65535 or _c_result > 255:
+                    LogTool.error('写入文件过大，超过行列数据被舍弃：{0} - {1}'.format(_r_result, _c_result))
+                    continue
+
+                cv = str(cv)
+                # 一个单元格最长为32766
+                if len(cv) > 32766:
+                    LogTool.error('写入Excel字段超长！长度{0}'.format(len(cv)))
+                    cv = cv[:32766]
+
+                if val_style is None or _c_result >= len(val_style):
+                    _sheet.write(_r_result, _c_result, cv)
+                    # if re.match('file://', cv):
+                    #     # 文本内容为本地文件
+                    #     formula = xlwt.Formula('HYPERLINK("{0}";"{1}")'.format(cv[7:], cv[7:]))
+                    #     _sheet.write(_r_result, _c_result, formula)
+                else:
+                    _sheet.write(_r_result, _c_result, cv, val_style[_c_result])
+                    # if re.match('file://', cv):
+                    #     # 文本内容为本地文件
+                    #     formula = xlwt.Formula('HYPERLINK("{0}";"{1}")'.format(cv[7:], cv[7:]))
+                    #     _sheet.write(_r_result, _c_result, formula)
+
+                # 更新最长字符数
+                if max_length_dict.__contains__(_c_result):
+                    if max_length_dict[_c_result] < len(cv):
+                        max_length_dict[_c_result] = len(cv)
+                else:
+                    max_length_dict[_c_result] = len(cv)
+
+        # 更新列宽
+        if is_auto_col:
+            for key, value in max_length_dict.items():
+                _val = value * 256
+                _val = _val if _val < 65536 else 65535
+                _sheet.col(key).width = _val
+
+        _wb.save(pfname)
+】
+[INFO 2020-05-03 23:04:49]剪切板内容【    #!/usr/bin/env python
+    # -*- coding: utf-8 -*-
+    """
+    @Comment    : 
+    @Time       : 2019/2/25 9:01
+    @Author     : libaojie
+    @File       : excel_tool.py
+    @Software   : PyCharm
+    """
+    import os
+    import shutil
+    import traceback
+    
+    import xlrd
+    import xlwt
+    from xlutils.copy import copy
+    
+    from project.plugs.log_tool import LogTool
+    
+    
+    class ExcelTool(object):
+    
+        @staticmethod
+        def get_all_excel_files(path):
+            '''
+            获取指定目录下所有的Excel文件
+            Params:
+                ppath: String 存放Excel的根目录
+            Return:
+                指定目录下所有的Excel文件
+            '''
+    
+            _files = []  # 存放返回的文件列表
+            _dir_cnt = 0  # 记录包含文件的文件夹数量
+    
+            # 遍历所有文件夹，获取相应的信息
+            for _dirpath, _dirnames, _filenames in os.walk(path):
+                # 遍历文件夹中的文件
+                _dir_cnt += 1
+                for _filename in _filenames:
+                    # 将所有的Excel文件（剔除了临时文件）加载到文件列表中
+                    if (os.path.splitext(_filename)[1] in ['.xlsx', '.xls']
+                    ) and (not _filename.startswith('~')):
+                        _files.append(os.path.join(_dirpath, _filename))
+            # print('包含Excel文件的目录共【{}】个'.format(_dir_cnt))
+    
+            if len(_files) < 1:
+                # 文件夹内无Excel文件
+                LogTool.error("文件夹内无Excel：{0}".format(path))
+    
+            return _files
+    
+        @staticmethod
+        def get_excel_file(path):
+            '''
+            获取Excel文件
+            Params:
+                path: String Excel路径
+            Return:
+                Excel文件
+            '''
+            try:
+                _excel = xlrd.open_workbook(path)
+                if not _excel:
+                    LogTool.error('无此Excel！！！{0}'.format(path))
+                return _excel
+            except Exception as err:
+                LogTool.error(traceback.format_exc())
+                LogTool.print(f'Excel文件无法读取')
+                return None
+    
+        @staticmethod
+            def save_to_excel(pheader, pvals, pfname, header_style=None, val_style=None, psname='Sheet1'):
+            '''
+            保存数据至Excel
+            :param pheader: List 标题
+            :param pvals: List 内容
+            :param pfname: String 路径
+            :param header_style: 标题格式
+            :param val_style:  内容格式
+            :param psname: sheet名称
+            :return:
+            '''
+            if not os.path.isdir(os.path.dirname(pfname)):
+                os.makedirs(os.path.dirname(pfname))
+    
+            _workbook = xlwt.Workbook(encoding='utf8')  # 创建工作簿对象
+            _xlssheet = _workbook.add_sheet(psname)
+    
+            # 填充标题
+            for _i, _v in enumerate(pheader):
+                if header_style is None:
+                    _xlssheet.write(0, _i, _v)
+                else:
+                    _xlssheet.write(0, _i, _v, header_style)
+    
+            # 填充内容
+            for _r, _rv in enumerate(pvals):
+                for _c, cv in enumerate(_rv):
+                    cv = str(cv)
+                    # 一个单元格最长为32766
+                    if len(cv) > 32766:
+                        LogTool.error('写入Excel字段超长！长度{0}'.format(len(cv)))
+                        cv = cv[:32766]
+    
+                    if val_style is None:
+                        _xlssheet.write(_r + 1, _c, cv)
+                    else:
+                        _xlssheet.write(_r + 1, _c, cv, val_style)
+    
+            # 保存excel文件
+            _workbook.save(pfname)
+    
+        @staticmethod
+        def copy_templet(input_path, output_path):
+            """
+            复制一下模板
+            :param input_path:
+            :param output_path:
+            :return:
+            """
+            shutil.copy(input_path, output_path)
+            return output_path
+    
+        @staticmethod
+        def templet_excel(pvals, pfname, psindex, ptitle_rnt=0, ptitle_cnt=0, is_by_row=True, val_style=None,
+                          is_auto_col=False, is_new_sheet=False):
+            """
+            按模板输出Excel
+            :param pvals: 数据
+            :param pfname: 模板路径
+            :param psindex: sheet序号
+            :param ptitle_rnt: 标题行数
+            :param ptitle_cnt: 标题列数
+            :param is_by_row: 是否按行写入
+            :param is_auto_col：
+            :param is_new_sheet: 是否是新添的sheet
+            :return:
+            """
+            _workbook = xlrd.open_workbook(pfname, formatting_info=True)
+            _wb = copy(_workbook)
+            if is_new_sheet:
+                _sheet = _wb.add_sheet(psindex)
+            else:
+                _sheet = _wb.get_sheet(psindex)
+    
+            max_length_dict = {}
+            for _r, _rv in enumerate(pvals):
+                for _c, cv in enumerate(_rv):
+                    # 写入内容
+                    if is_by_row:
+                        # 按行写入
+                        _r_result = _r + ptitle_rnt
+                        _c_result = _c + ptitle_cnt
+                    else:
+                        # 按列写入
+                        _r_result = _c + ptitle_rnt
+                        _c_result = _r + ptitle_cnt
+    
+                    # 一个sheet 最多可以写65535*255个单元格
+                    if _r_result > 65535 or _c_result > 255:
+                        LogTool.error('写入文件过大，超过行列数据被舍弃：{0} - {1}'.format(_r_result, _c_result))
+                        continue
+    
+                    cv = str(cv)
+                    # 一个单元格最长为32766
+                    if len(cv) > 32766:
+                        LogTool.error('写入Excel字段超长！长度{0}'.format(len(cv)))
+                        cv = cv[:32766]
+    
+                    if val_style is None or _c_result >= len(val_style):
+                        _sheet.write(_r_result, _c_result, cv)
+                        # if re.match('file://', cv):
+                        #     # 文本内容为本地文件
+                        #     formula = xlwt.Formula('HYPERLINK("{0}";"{1}")'.format(cv[7:], cv[7:]))
+                        #     _sheet.write(_r_result, _c_result, formula)
+                    else:
+                        _sheet.write(_r_result, _c_result, cv, val_style[_c_result])
+                        # if re.match('file://', cv):
+                        #     # 文本内容为本地文件
+                        #     formula = xlwt.Formula('HYPERLINK("{0}";"{1}")'.format(cv[7:], cv[7:]))
+                        #     _sheet.write(_r_result, _c_result, formula)
+    
+                    # 更新最长字符数
+                    if max_length_dict.__contains__(_c_result):
+                        if max_length_dict[_c_result] < len(cv):
+                            max_length_dict[_c_result] = len(cv)
+                    else:
+                        max_length_dict[_c_result] = len(cv)
+    
+            # 更新列宽
+            if is_auto_col:
+                for key, value in max_length_dict.items():
+                    _val = value * 256
+                    _val = _val if _val < 65536 else 65535
+                    _sheet.col(key).width = _val
+    
+            _wb.save(pfname)
+】
+[INFO 2020-05-03 23:04:50]剪切板内容【】
+[INFO 2020-05-03 23:04:51]剪切板内容【            #!/usr/bin/env python
+            # -*- coding: utf-8 -*-
+            """
+            @Comment    : 
+            @Time       : 2019/2/25 9:01
+            @Author     : libaojie
+            @File       : excel_tool.py
+            @Software   : PyCharm
+            """
+            import os
+            import shutil
+            import traceback
+            
+            import xlrd
+            import xlwt
+            from xlutils.copy import copy
+            
+            from project.plugs.log_tool import LogTool
+            
+            
+            class ExcelTool(object):
+            
+                @staticmethod
+                def get_all_excel_files(path):
+                    '''
+                    获取指定目录下所有的Excel文件
+                    Params:
+                        ppath: String 存放Excel的根目录
+                    Return:
+                        指定目录下所有的Excel文件
+                    '''
+            
+                    _files = []  # 存放返回的文件列表
+                    _dir_cnt = 0  # 记录包含文件的文件夹数量
+            
+                    # 遍历所有文件夹，获取相应的信息
+                    for _dirpath, _dirnames, _filenames in os.walk(path):
+                        # 遍历文件夹中的文件
+                        _dir_cnt += 1
+                        for _filename in _filenames:
+                            # 将所有的Excel文件（剔除了临时文件）加载到文件列表中
+                            if (os.path.splitext(_filename)[1] in ['.xlsx', '.xls']
+                            ) and (not _filename.startswith('~')):
+                                _files.append(os.path.join(_dirpath, _filename))
+                    # print('包含Excel文件的目录共【{}】个'.format(_dir_cnt))
+            
+                    if len(_files) < 1:
+                        # 文件夹内无Excel文件
+                        LogTool.error("文件夹内无Excel：{0}".format(path))
+            
+                    return _files
+            
+                @staticmethod
+                def get_excel_file(path):
+                    '''
+                    获取Excel文件
+                    Params:
+                        path: String Excel路径
+                    Return:
+                        Excel文件
+                    '''
+                    try:
+                        _excel = xlrd.open_workbook(path)
+                        if not _excel:
+                            LogTool.error('无此Excel！！！{0}'.format(path))
+                        return _excel
+                    except Exception as err:
+                        LogTool.error(traceback.format_exc())
+                        LogTool.print(f'Excel文件无法读取')
+                        return None
+            
+                @staticmethod
+                    def save_to_excel(pheader, pvals, pfname, header_style=None, val_style=None, psname='Sheet1'):
+                    '''
+                    保存数据至Excel
+                    :param pheader: List 标题
+                    :param pvals: List 内容
+                    :param pfname: String 路径
+                    :param header_style: 标题格式
+                    :param val_style:  内容格式
+                    :param psname: sheet名称
+                    :return:
+                    '''
+                    if not os.path.isdir(os.path.dirname(pfname)):
+                        os.makedirs(os.path.dirname(pfname))
+            
+                    _workbook = xlwt.Workbook(encoding='utf8')  # 创建工作簿对象
+                    _xlssheet = _workbook.add_sheet(psname)
+            
+                    # 填充标题
+                    for _i, _v in enumerate(pheader):
+                        if header_style is None:
+                            _xlssheet.write(0, _i, _v)
+                        else:
+                            _xlssheet.write(0, _i, _v, header_style)
+            
+                    # 填充内容
+                    for _r, _rv in enumerate(pvals):
+                        for _c, cv in enumerate(_rv):
+                            cv = str(cv)
+                            # 一个单元格最长为32766
+                            if len(cv) > 32766:
+                                LogTool.error('写入Excel字段超长！长度{0}'.format(len(cv)))
+                                cv = cv[:32766]
+            
+                            if val_style is None:
+                                _xlssheet.write(_r + 1, _c, cv)
+                            else:
+                                _xlssheet.write(_r + 1, _c, cv, val_style)
+            
+                    # 保存excel文件
+                    _workbook.save(pfname)
+            
+                @staticmethod
+                def copy_templet(input_path, output_path):
+                    """
+                    复制一下模板
+                    :param input_path:
+                    :param output_path:
+                    :return:
+                    """
+                    shutil.copy(input_path, output_path)
+                    return output_path
+            
+                @staticmethod
+                def templet_excel(pvals, pfname, psindex, ptitle_rnt=0, ptitle_cnt=0, is_by_row=True, val_style=None,
+                                  is_auto_col=False, is_new_sheet=False):
+                    """
+                    按模板输出Excel
+                    :param pvals: 数据
+                    :param pfname: 模板路径
+                    :param psindex: sheet序号
+                    :param ptitle_rnt: 标题行数
+                    :param ptitle_cnt: 标题列数
+                    :param is_by_row: 是否按行写入
+                    :param is_auto_col：
+                    :param is_new_sheet: 是否是新添的sheet
+                    :return:
+                    """
+                    _workbook = xlrd.open_workbook(pfname, formatting_info=True)
+                    _wb = copy(_workbook)
+                    if is_new_sheet:
+                        _sheet = _wb.add_sheet(psindex)
+                    else:
+                        _sheet = _wb.get_sheet(psindex)
+            
+                    max_length_dict = {}
+                    for _r, _rv in enumerate(pvals):
+                        for _c, cv in enumerate(_rv):
+                            # 写入内容
+                            if is_by_row:
+                                # 按行写入
+                                _r_result = _r + ptitle_rnt
+                                _c_result = _c + ptitle_cnt
+                            else:
+                                # 按列写入
+                                _r_result = _c + ptitle_rnt
+                                _c_result = _r + ptitle_cnt
+            
+                            # 一个sheet 最多可以写65535*255个单元格
+                            if _r_result > 65535 or _c_result > 255:
+                                LogTool.error('写入文件过大，超过行列数据被舍弃：{0} - {1}'.format(_r_result, _c_result))
+                                continue
+            
+                            cv = str(cv)
+                            # 一个单元格最长为32766
+                            if len(cv) > 32766:
+                                LogTool.error('写入Excel字段超长！长度{0}'.format(len(cv)))
+                                cv = cv[:32766]
+            
+                            if val_style is None or _c_result >= len(val_style):
+                                _sheet.write(_r_result, _c_result, cv)
+                                # if re.match('file://', cv):
+                                #     # 文本内容为本地文件
+                                #     formula = xlwt.Formula('HYPERLINK("{0}";"{1}")'.format(cv[7:], cv[7:]))
+                                #     _sheet.write(_r_result, _c_result, formula)
+                            else:
+                                _sheet.write(_r_result, _c_result, cv, val_style[_c_result])
+                                # if re.match('file://', cv):
+                                #     # 文本内容为本地文件
+                                #     formula = xlwt.Formula('HYPERLINK("{0}";"{1}")'.format(cv[7:], cv[7:]))
+                                #     _sheet.write(_r_result, _c_result, formula)
+            
+                            # 更新最长字符数
+                            if max_length_dict.__contains__(_c_result):
+                                if max_length_dict[_c_result] < len(cv):
+                                    max_length_dict[_c_result] = len(cv)
+                            else:
+                                max_length_dict[_c_result] = len(cv)
+            
+                    # 更新列宽
+                    if is_auto_col:
+                        for key, value in max_length_dict.items():
+                            _val = value * 256
+                            _val = _val if _val < 65536 else 65535
+                            _sheet.col(key).width = _val
+            
+                    _wb.save(pfname)
+】
+[INFO 2020-05-03 23:04:51]---------
+
+[INFO 2020-05-03 23:04:51]URL:None
+
+[INFO 2020-05-03 23:04:51]解析参数
+[ERROR 2020-05-03 23:04:51]Traceback (most recent call last):
+  File "D:\04_code\github\python\read_html_venv\project\plugs\decorator.py", line 27, in wrapper
+    _ret = func(*args, **kwargs)
+  File "D:/04_code/github/python/read_html_venv/project/main.py", line 182, in _start_btn_back
+    self._handle()
+  File "D:/04_code/github/python/read_html_venv/project/main.py", line 209, in _handle
+    handleFile = HandleFile(url)
+  File "D:\04_code\github\python\read_html_venv\project\toprice\handle_file.py", line 13, in __init__
+    self.file_path = file_path.replace("file:///", "")  # 文件路径
+AttributeError: 'NoneType' object has no attribute 'replace'
+
+[INFO 2020-05-03 23:04:51]函数异常：【<function MainUI._start_btn_back at 0x000001B0DCCAEE18>】, args:【(<__main__.MainUI object at 0x000001B0DCC960F0>,)】， kwargs:【{}】
+[INFO 2020-05-03 23:05:18]------------------启动项目-----------------------------
+[INFO 2020-05-03 23:05:18]平台信息：   【Windows-10-10.0.18362-SP0】
+[INFO 2020-05-03 23:05:18]当前路径：   【D:\04_code\github\python\read_html_venv\project】
+[INFO 2020-05-03 23:05:18]系统变量：   【['D:\\04_code\\github\\python\\read_html_venv\\project', 'D:\\04_code\\github\\python\\read_html_venv', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\Scripts\\python36.zip', 'C:\\Users\\snow\\AppData\\Local\\Programs\\Python\\Python36\\DLLs', 'C:\\Users\\snow\\AppData\\Local\\Programs\\Python\\Python36\\lib', 'C:\\Users\\snow\\AppData\\Local\\Programs\\Python\\Python36', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\lib\\site-packages', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\lib\\site-packages\\win32', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\lib\\site-packages\\win32\\lib', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\lib\\site-packages\\Pythonwin', 'C:\\Program Files\\JetBrains\\PyCharm 2018.1\\helpers\\pycharm_matplotlib_backend']】
+[INFO 2020-05-03 23:05:18]日志路径：   【D:\04_code\github\python\read_html_venv\project\data\log】
+[INFO 2020-05-03 23:05:18]main路径：   【D:\04_code\github\python\read_html_venv\project】
+[INFO 2020-05-03 23:05:18]python路径： 【C:\Users\snow\AppData\Local\pypoetry\Cache\virtualenvs\read-html-venv--Gq2blu2-py3.6\Scripts\python.exe】
+[INFO 2020-05-03 23:05:21]开始处理1份报告
+[INFO 2020-05-03 23:05:21]开始处理第1份报告
+[INFO 2020-05-03 23:05:21]开始生成报告
+[INFO 2020-05-03 23:05:21]点击鼠标【510.8】【81.0】
+[INFO 2020-05-03 23:05:23]获取地址
+[INFO 2020-05-03 23:05:23]当前应用名【TMessageForm】
+[INFO 2020-05-03 23:05:24]当前应用名【TMessageForm】
+[INFO 2020-05-03 23:05:25]当前应用名【Chrome_WidgetWin_1】
+[INFO 2020-05-03 23:05:25]找到了浏览器！
+[INFO 2020-05-03 23:05:25]点击鼠标【640.5】【340.5】
+[INFO 2020-05-03 23:05:26]剪切板内容【】
+[INFO 2020-05-03 23:05:27]剪切板内容【file:///C:/Users/snow/AppData/Local/Temp/Example.htm】
+[INFO 2020-05-03 23:05:27]找到了网址file:///C:/Users/snow/AppData/Local/Temp/Example.htm
+[INFO 2020-05-03 23:05:27]---------
+
+[INFO 2020-05-03 23:05:27]URL:file:///C:/Users/snow/AppData/Local/Temp/Example.htm
+
+[INFO 2020-05-03 23:05:27]解析参数
+[INFO 2020-05-03 23:05:27]路径为：C:/Users/snow/AppData/Local/Temp/Example.htm
+[INFO 2020-05-03 23:05:27]解析结果:
+
+[INFO 2020-05-03 23:05:27]1	2.537517	320.745724	276.10	262.00	247.00	232.70	195.00	133.60	97.23	74.89	60.33	23.52
+
+[INFO 2020-05-03 23:05:27]结束处理第1份报告
+[INFO 2020-05-03 23:05:27]处理报告完毕
+[INFO 2020-05-03 23:05:36]保存结果集
+[INFO 2020-05-03 23:05:50]保存路径为C:/Users/snow/Desktop/1
+[INFO 2020-05-03 23:05:50]保存成功
+[INFO 2020-05-03 23:07:51]------------------启动项目-----------------------------
+[INFO 2020-05-03 23:07:51]平台信息：   【Windows-10-10.0.18362-SP0】
+[INFO 2020-05-03 23:07:51]当前路径：   【D:\04_code\github\python\read_html_venv\project】
+[INFO 2020-05-03 23:07:51]系统变量：   【['D:\\04_code\\github\\python\\read_html_venv\\project', 'D:\\04_code\\github\\python\\read_html_venv', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\Scripts\\python36.zip', 'C:\\Users\\snow\\AppData\\Local\\Programs\\Python\\Python36\\DLLs', 'C:\\Users\\snow\\AppData\\Local\\Programs\\Python\\Python36\\lib', 'C:\\Users\\snow\\AppData\\Local\\Programs\\Python\\Python36', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\lib\\site-packages', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\lib\\site-packages\\win32', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\lib\\site-packages\\win32\\lib', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\lib\\site-packages\\Pythonwin', 'C:\\Program Files\\JetBrains\\PyCharm 2018.1\\helpers\\pycharm_matplotlib_backend']】
+[INFO 2020-05-03 23:07:51]日志路径：   【D:\04_code\github\python\read_html_venv\project\data\log】
+[INFO 2020-05-03 23:07:51]main路径：   【D:\04_code\github\python\read_html_venv\project】
+[INFO 2020-05-03 23:07:51]python路径： 【C:\Users\snow\AppData\Local\pypoetry\Cache\virtualenvs\read-html-venv--Gq2blu2-py3.6\Scripts\python.exe】
+[INFO 2020-05-03 23:07:54]开始处理1份报告
+[INFO 2020-05-03 23:07:54]开始处理第1份报告
+[INFO 2020-05-03 23:07:54]开始生成报告
+[INFO 2020-05-03 23:07:54]点击鼠标【510.8】【81.0】
+[INFO 2020-05-03 23:07:56]获取地址
+[INFO 2020-05-03 23:07:56]当前应用名【TMessageForm】
+[INFO 2020-05-03 23:07:57]当前应用名【TMessageForm】
+[INFO 2020-05-03 23:07:58]当前应用名【Chrome_WidgetWin_1】
+[INFO 2020-05-03 23:07:58]找到了浏览器！
+[INFO 2020-05-03 23:07:58]点击鼠标【640.5】【340.5】
+[INFO 2020-05-03 23:07:59]剪切板内容【】
+[INFO 2020-05-03 23:08:00]剪切板内容【file:///C:/Users/snow/AppData/Local/Temp/Example.htm】
+[INFO 2020-05-03 23:08:00]找到了网址file:///C:/Users/snow/AppData/Local/Temp/Example.htm
+[INFO 2020-05-03 23:08:00]---------
+
+[INFO 2020-05-03 23:08:00]URL:file:///C:/Users/snow/AppData/Local/Temp/Example.htm
+
+[INFO 2020-05-03 23:08:00]解析参数
+[INFO 2020-05-03 23:08:00]路径为：C:/Users/snow/AppData/Local/Temp/Example.htm
+[INFO 2020-05-03 23:08:00]解析结果:
+
+[INFO 2020-05-03 23:08:00]1	2.537517	320.745724	276.10	262.00	247.00	232.70	195.00	133.60	97.23	74.89	60.33	23.52
+
+[INFO 2020-05-03 23:08:01]结束处理第1份报告
+[INFO 2020-05-03 23:08:01]处理报告完毕
+[INFO 2020-05-03 23:08:09]保存结果集
+[INFO 2020-05-03 23:08:14]保存路径为C:/Users/snow/Desktop/1.xlsx
+[INFO 2020-05-03 23:08:14]保存成功
+[INFO 2020-05-03 23:10:41]------------------启动项目-----------------------------
+[INFO 2020-05-03 23:10:41]平台信息：   【Windows-10-10.0.18362-SP0】
+[INFO 2020-05-03 23:10:41]当前路径：   【D:\04_code\github\python\read_html_venv\project】
+[INFO 2020-05-03 23:10:41]系统变量：   【['D:\\04_code\\github\\python\\read_html_venv\\project', 'D:\\04_code\\github\\python\\read_html_venv', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\Scripts\\python36.zip', 'C:\\Users\\snow\\AppData\\Local\\Programs\\Python\\Python36\\DLLs', 'C:\\Users\\snow\\AppData\\Local\\Programs\\Python\\Python36\\lib', 'C:\\Users\\snow\\AppData\\Local\\Programs\\Python\\Python36', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\lib\\site-packages', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\lib\\site-packages\\win32', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\lib\\site-packages\\win32\\lib', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\lib\\site-packages\\Pythonwin', 'C:\\Program Files\\JetBrains\\PyCharm 2018.1\\helpers\\pycharm_matplotlib_backend']】
+[INFO 2020-05-03 23:10:41]日志路径：   【D:\04_code\github\python\read_html_venv\project\data\log】
+[INFO 2020-05-03 23:10:41]main路径：   【D:\04_code\github\python\read_html_venv\project】
+[INFO 2020-05-03 23:10:41]python路径： 【C:\Users\snow\AppData\Local\pypoetry\Cache\virtualenvs\read-html-venv--Gq2blu2-py3.6\Scripts\python.exe】
+[INFO 2020-05-03 23:10:45]开始处理1份报告
+[INFO 2020-05-03 23:10:45]开始处理第1份报告
+[INFO 2020-05-03 23:10:45]开始生成报告
+[INFO 2020-05-03 23:10:45]点击鼠标【510.8】【81.0】
+[INFO 2020-05-03 23:10:47]获取地址
+[INFO 2020-05-03 23:10:47]当前应用名【TMessageForm】
+[INFO 2020-05-03 23:10:48]当前应用名【TMessageForm】
+[INFO 2020-05-03 23:10:49]当前应用名【Chrome_WidgetWin_1】
+[INFO 2020-05-03 23:10:49]找到了浏览器！
+[INFO 2020-05-03 23:10:49]点击鼠标【640.5】【340.5】
+[INFO 2020-05-03 23:10:50]剪切板内容【】
+[INFO 2020-05-03 23:10:51]剪切板内容【file:///C:/Users/snow/AppData/Local/Temp/Example.htm】
+[INFO 2020-05-03 23:10:51]找到了网址file:///C:/Users/snow/AppData/Local/Temp/Example.htm
+[INFO 2020-05-03 23:10:51]---------
+
+[INFO 2020-05-03 23:10:51]URL:file:///C:/Users/snow/AppData/Local/Temp/Example.htm
+
+[INFO 2020-05-03 23:10:51]解析参数
+[INFO 2020-05-03 23:10:51]路径为：C:/Users/snow/AppData/Local/Temp/Example.htm
+[INFO 2020-05-03 23:10:51]解析结果:
+
+[INFO 2020-05-03 23:10:51]1	2.537517	320.745724	276.10	262.00	247.00	232.70	195.00	133.60	97.23	74.89	60.33	23.52
+
+[INFO 2020-05-03 23:10:51]结束处理第1份报告
+[INFO 2020-05-03 23:10:51]处理报告完毕
+[INFO 2020-05-03 23:11:07]保存结果集
+[INFO 2020-05-03 23:11:11]保存路径为C:/Users/snow/Desktop/1
+[INFO 2020-05-03 23:11:11]保存成功
+[INFO 2020-05-03 23:32:31]------------------启动项目-----------------------------
+[INFO 2020-05-03 23:32:31]平台信息：   【Windows-10-10.0.18362-SP0】
+[INFO 2020-05-03 23:32:31]当前路径：   【D:\04_code\github\python\read_html_venv\project】
+[INFO 2020-05-03 23:32:31]系统变量：   【['D:\\04_code\\github\\python\\read_html_venv\\project', 'D:\\04_code\\github\\python\\read_html_venv', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\Scripts\\python36.zip', 'C:\\Users\\snow\\AppData\\Local\\Programs\\Python\\Python36\\DLLs', 'C:\\Users\\snow\\AppData\\Local\\Programs\\Python\\Python36\\lib', 'C:\\Users\\snow\\AppData\\Local\\Programs\\Python\\Python36', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\lib\\site-packages', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\lib\\site-packages\\win32', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\lib\\site-packages\\win32\\lib', 'C:\\Users\\snow\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\read-html-venv--Gq2blu2-py3.6\\lib\\site-packages\\Pythonwin', 'C:\\Program Files\\JetBrains\\PyCharm 2018.1\\helpers\\pycharm_matplotlib_backend']】
+[INFO 2020-05-03 23:32:31]日志路径：   【D:\04_code\github\python\read_html_venv\project\data\log】
+[INFO 2020-05-03 23:32:31]main路径：   【D:\04_code\github\python\read_html_venv\project】
+[INFO 2020-05-03 23:32:31]python路径： 【C:\Users\snow\AppData\Local\pypoetry\Cache\virtualenvs\read-html-venv--Gq2blu2-py3.6\Scripts\python.exe】

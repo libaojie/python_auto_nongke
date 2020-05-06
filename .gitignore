@@ -1,0 +1,15 @@
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/python_package.iml
+/.idea/workspace.xml
+/.idea/dictionaries/li.xml
+/.idea/vcs.xml
+/project/__pycache__/__init__.cpython-36.pyc
+/project/__pycache__/config.cpython-36.pyc
+/project/app/__pycache__/__init__.cpython-36.pyc
+/project/app/core/__pycache__/__init__.cpython-36.pyc
+/project/app/core/__pycache__/close_task.cpython-36.pyc
+/project/app/plugins/__pycache__/__init__.cpython-36.pyc
+/project/app/plugins/__pycache__/log_tool.cpython-36.pyc
+/project/data/log/error.log
+/project/data/log/log.log
