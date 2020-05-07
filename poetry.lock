@@ -79,7 +79,7 @@ reference = "douban"
 url = "https://pypi.doubanio.com/simple"
 
 [metadata]
-content-hash = "2bf4c18d128b500d48c6c51b5a1578b121c1367258d5bb56f8b4c4be937f98cd"
+content-hash = "cb063844b6001c6f49c4e7cef9d49fc46fb4eec989087172dad89fd2d8980d3f"
 python-versions = "^3.6"
 
 [metadata.files]

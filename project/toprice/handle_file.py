@@ -23,6 +23,8 @@ class HandleFile(object):
         if par_id is None:
             return None
         ret.append(par_id)
+        local = self._get_local()
+        ret = ret + local
         par1 = self._get_par_1()
         ret.append(par1)
         par2 = self._get_par_2()
@@ -57,6 +59,66 @@ class HandleFile(object):
                 return r
         return None
 
+    def _get_local(self):
+        """
+        捞取local
+        :param content:
+        :return:
+        """
+        """
+        * Location           : Nanchang
+        * Meteo station      : Nanchang
+        * Soil type          : Nanchang_Soil
+        * Crop calendar      : Nanchang-Rice1
+        * Substance          : A
+        * Application scheme : A-4-2
+        * Deposition scheme  : No
+        * Irrigation scheme  : Surface_Auto
+        *
+        * End of PEARL REPORT: Header
+
+        * PEARL REPORT: Leaching
+        * Start date      :   01-Jan-1901
+        * End date        :   31-Dec-1926
+        * Target depth    :   1.00 m
+        * Annual application to the crop at 10-Aug; dosage =     0.0500 kg.ha-1
+        * Annual application to the crop at 17-Aug; dosage =     0.0500 kg.ha-1
+
+        * Leaching summary for compound A
+        """
+        ret_list = []
+        # pattern = re.compile(r'\*.+?Location.+?Leaching.+?summary')
+        pattern = re.compile(r'\*.+?Location[\s\S]+?Leaching.+?summary')
+        ret = pattern.findall(self.content)
+        if ret:
+            for r in ret:
+                #  * Location           : Nanchang
+                pattern1 = re.compile(r'\*.+?Location.+?:(.+?)<BR>')
+                ret1 = pattern1.findall(r)
+                if ret1:
+                    for r1 in ret1:
+                        ret_list.append(r1[6:])
+                        break
+
+                # * Substance          : A
+                pattern2 = re.compile(r'\*.+?Substance.+?:(.+?)<BR>')
+                ret2 = pattern2.findall(r)
+                if ret2:
+                    for r2 in ret2:
+                        ret_list.append(r2[6:])
+                        break
+
+                # * Annual application to the crop at 10-Aug; dosage =     0.0500 kg.ha-1
+                pattern3 = re.compile(r'crop.+?at(.+);.+?dosage')
+                ret3 = pattern3.findall(r)
+                if ret3:
+                    for r3 in ret3:
+                        ret_list.append(r3[6:])
+                        break
+                break
+
+        return ret_list
+
     def _get_par_1(self):
         # The average concentration of 0333 closest to the 89th percentile is      0.019137 ug/L'
         pattern = re.compile(r'average.+?concentration.+?of.+?percentile.+?is.+?([\d,.]+).+?ug/L')
@@ -90,3 +152,6 @@ class HandleFile(object):
                 for r2 in temp2:
                     ret.append(r2)
         return ret
+
+# handleFile = HandleFile(r"C:\Users\snow\Desktop\原始数据\A-4-2.htm")
+# handleFile.run()
