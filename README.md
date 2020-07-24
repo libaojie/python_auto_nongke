@@ -1,3 +1,3 @@
-# email_sms_demo
+# python_auto_nongke
 
-内网邮件、短信发送
+农科院，自动提取报告中的数值
